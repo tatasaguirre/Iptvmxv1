@@ -1,0 +1,70 @@
+
+#EXTM3U url-tvg=https://bit.ly/3itZsSm
+#EXTM3U url-tvg=https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml 
+#EXTM3U url-tvg=https://i.mjh.nz/PlutoTV/all.xml.gz
+#EXTM3U url-tvg=https://www.tdtchannels.com/epg/TV.xml.gz
+#EXTM3U url-tvg=https://www.tdtchannels.com/epg/TV.xml
+
+LATAM: SPANISH Movies
+
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/xfleQMJ.png" tvg-id="Filmex.mx" channel-id="Filmex.mx" tvg-name="CineSony.us"  channel-number="501" tvc-guide-stationid="" tvg-country="LAT" tvg-language="SPANISH" group-title="LATINO TV" status="online",FilMex by XUMO|HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/EgDbIoe.png" tvg-id="CineSony.us" channel-id="CineSony.us" tvg-name="Filmex.mx"  channel-number="502" tvc-guide-stationid="" tvg-country="LAT" tvg-language="SPANISH" group-title="LATINO TV" status="online",CINE SONY|HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/9fAXnpA.png" tvg-id="FilmexClasico.mx" channel-id="FilmexClasico.mx" tvg-name="FilmexClasico.mx"  channel-number="503" tvc-guide-stationid="" tvg-country="LAT" tvg-language="SPANISH" group-title="LATINO TV" status="online",FilMex Clasico|HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
+
+
+USA: LOCAL News TV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/x38vIV5.png" tvg-id="ABCNEWS.us" channel-id="ABCNEWS.usm" tvg-name="ABCNEWS.us"  channel-number="900" tvc-guide-stationid="" tvg-country="US" tvg-language="ENGLISH" group-title="USA NEWS TV" status="online",CINE SONY|HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+
+
+
+
+LATAM: SPANISH TV
+
+
+ARGENTINA: TV LOCAL
+
+#EXTINF:-1 tvg-logo="https://imgur.com/aZOsprS.png" tvg-id="elNUEVE.com" channel-id="elnueve.com" tvg-name="elnueve"  channel-number="101" tvc-guide-stationid="" tvg-country="LAT" tvg-language="SPANISH" group-title="LATINO TV" status="online",elNueve|HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/1v9PIDq.png" tvg-id="eltrece.com" channel-id="eltrece.com" tvg-name="eltrece"  channel-number="100" tvc-guide-stationid="" tvg-country="LAT" tvg-language="SPANISH" group-title="LATINO TV" status="online",elTrece|HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
+COSTA RICA: TV LOCAL
+
+#EXTINF:-1 tvg-logo="https://imgur.com/nV2I8ud.png" tvg-id="CANAL8" channel-id="" tvg-name=""  channel-number="900" tvc-guide-stationid="" tvg-country="LAT" tvg-language="" group-title="LATAM TV" status="online",Canal 8|HD 720p
+#EXTVLCOPT:network-caching=1000 
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+
+
+MEXICO: LOCAL TV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/A8xC0HX.png" tvg-id="NRT.MX" channel-id="NRT.MX" tvg-name="NRT.MX"  channel-number="600" tvc-guide-stationid="" tvg-country="LAT" tvg-language="" group-title="LOCAL MX TV" status="online",NRT MEXICO 6 Monclova|HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
+
+
+
+TV WORLD: ANIMALES
+
+#EXTINF:-1 tvg-logo=".png" tvg-id="" channel-id="" tvg-name=""  channel-number="900" tvc-guide-stationid="" tvg-country="LAT" tvg-language="" group-title="ANIMAL TV" status="online",W24 Nacht Schiene|HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
+
+
+
+
