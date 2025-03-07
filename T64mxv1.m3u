@@ -19,6 +19,14 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-id="CanalOchoTV.mx",8.1 Canal Ocho TV CDMX
 https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="",SIPSE TVCUN 8.1 (1080p) [Not 24/7]
+
+#EXTINF:-1 tvg-logo="https://imgur.com/9VRiRv2.png" tvg-id="SIPSETVCUN81.mx" group-title="LocalTV MX",8.1 SIPSE TVCUN | CANCUN MX
+#EXTVLCOPT:network-caching=1000 
+https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://imgur.com/hlHmKO7.png" tvg-id="8NTV.mx" group-title="LocalTV MX",8.1 8NTV HD | Nayarit MX
 #EXTVLCOPT:network-caching=1000 
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
@@ -73,7 +81,8 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal10Cancun.mx",10.2 Canal 10 Cancún (360p)
 https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="ConectaTV.mx",10.4 Conecta TV Chihuahua
+https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/VYOCLVu.png" tvg-id="NayaritComunica.mx" group-title="LocalTV MX",10.1 Nayarit GOB | MX
 #EXTVLCOPT:network-caching=1000 
@@ -83,8 +92,10 @@ https://live.iplanay.gob.mx/hls/nayarittv.m3u8
 #EXTVLCOPT:network-caching=1000 
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ConectaTV.mx",10.4 Conecta TV Chihuahua
-https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/MI2fEYR.png" tvg-id="SuperChannel12.mx" group-title="LocalTV MX",12.1 Super Channel 12 | MEXICO MX
+#EXTVLCOPT:network-caching=1000 
+#https://servilive.com:3263/live/channel12live.m3u8
 
 #EXTINF:-1 tvg-id="LoboTV.mx",Lobo TV (720p)
 https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
@@ -110,7 +121,7 @@ https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlis
 #EXTVLCOPT:network-caching=1000
 http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/HW2dTnw.png" tvg-id="XHPBZCTDT1.mx" group-title="LocalTV MX",26.2 SET Televisión | Puebla MX
+#EXTINF:-1 tvg-logo="https://imgur.com/HW2dTnw.png" tvg-id=""XHPBZCTDT2.mx" group-title="LocalTV MX",26.2 SET Televisión | Puebla MX
 #EXTVLCOPT:network-caching=1000
 http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
 
@@ -173,6 +184,10 @@ https://pistream.ddns.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="LaVozGruperaTV.mx",La Voz Grupera TV (720p)
 https://cloudvideo.servers10.com:8081/8128/index.m3u8
+
+#EXTINF:-1 tvg-id="SintesisTV.mx",Síntesis TV (480p)
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/sintesis_tv.m3u8
+
 
 #EXTINF:-1 tvg-id="RalyTV.mx",Raly TV (720p)
 https://cloudvideo.servers10.com:8081/8072/index.m3u8
