@@ -67,7 +67,7 @@ https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlis
 
 
 
-#EXTINF:-1 tvg-id="Canal28.mx",28.1 Canal 28 Chihuahua (720p) 
+#EXTINF:-1 tvg-logo="https://imgur.com/HHPQxwO.png" tvg-id="Canal28.mx" group-title="LocalTV MX",28.1 Canal 28 |Chihuahua MX
 #EXTVLCOPT:http-referrer=https://player.castr.com/live_bf24d4208d8611eeb116dbe87aa63be0
 https://stream.castr.com/653d77dcde70014f52ad1e19/live_bf24d4208d8611eeb116dbe87aa63be0/rewind-3600.m3u8
 
