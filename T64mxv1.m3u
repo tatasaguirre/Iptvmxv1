@@ -23,7 +23,7 @@ https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8
 #EXTVLCOPT:network-caching=1000 
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/OazcMqb.png" tvg-id="RedBullTv.us" channel-id="RedBullTv.us" tvg-name="Red Bull TV"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",RedBullTV|HD 720p
+#EXTINF:-1 tvg-logo=".png" tvg-id="" channel-number="" tvg-country="MX" tvg-language="Spanish" group-title="LocalTV MX",    |HD
 #EXTVLCOPT:network-caching=1000
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
@@ -67,7 +67,7 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=".png" tvg-id="ADN40.mx" channel-id="ADN40.mx" tvg-name="ADN40.mx"  channel-number="40.1" 
 tvc-guide-stationid="" tvg-country="MX" tvg-language="spanish" group-title="LocalTV MX" status="online",ADN 40.1 HD | CDMX
-#EXTVLCOPT:network-caching=1000 tvg-id="ADN40.mx",ADN 40.1 
+#EXTVLCOPT:network-caching=1000 
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-1 tvg-id="Canal44.mx",44.1 Canal 44 Chihuahua (720p)
