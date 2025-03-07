@@ -27,15 +27,17 @@ https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
 #EXTVLCOPT:network-caching=1000 
 https://video1.getstreamhosting.com:1936/8172/8172/chunklist_w360304697.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/xO29dUW.png" tvg-id="RCGTV.mx" group-title="LocalTV MX",8.1 RCG TV | Coahuila MX
+#EXTINF:-1 tvg-logo="https://imgur.com/xO29dUW.png" tvg-id="RCGTV.mx" group-title="LocalTV MX",8.1 RCG TV 1 | Coahuila MX
 #EXTVLCOPT:network-caching=1000 
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="RCGTV2.mx",RCG TV 2 (360p) [Not 24/7]
-https://5caf24a595d94.streamlock.net:1937/stream56/stream56/playlist.m3u8
-#EXTINF:-1 tvg-id="",RCG TV (Timeshifted -2 Hours) (432p)
+#EXTINF:-1 tvg-logo="https://imgur.com/xO29dUW.png" tvg-id="RCGTV2.mx" group-title="LocalTV MX",8.2 RCG TV 2 | Coahuila MX
+#EXTVLCOPT:network-caching=1000 
 https://video1.getstreamhosting.com:1936/8246/8246/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/xO29dUW.png" tvg-id="RCGTV3.mx" group-title="LocalTV MX",8.3 RCG TV 3 | Coahuila MX
+#EXTVLCOPT:network-caching=1000 
+https://video1.getstreamhosting.com:1936/8032/8032/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo=".png" tvg-id="" channel-number="" tvg-country="MX" tvg-language="Spanish" group-title="LocalTV MX",    |HD
@@ -182,7 +184,11 @@ PERU: Local PE
 https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
 
 
-USA: LOCAL News TV
+USA: LOCAL TV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/AJabypp.png" tvg-id="RomanzaPlusAfrica.ke"group-title="USA CableTV" ,1000.1 Romanza+ Africa | Keyna Africa(720p)
+https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/x38vIV5.png" tvg-id="ABCNEWS.us" channel-id="ABCNEWS.usm" tvg-name="ABCNEWS.us"  channel-number="900" tvc-guide-stationid="" tvg-country="US" tvg-language="ENGLISH" group-title="USA NEWS TV" status="online",CINE SONY|HD 720p
 #EXTVLCOPT:network-caching=1000 
