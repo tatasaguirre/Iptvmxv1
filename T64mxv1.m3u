@@ -32,7 +32,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTVLCOPT:network-caching=1000
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=".png" tvg-id="Canal10Durango.mx" group-title="LocalTV MX",10.1 Canal10| Durango MX
+#EXTINF:-1 tvg-logo=".png" tvg-id="Canal10Durango.mx" group-title="LocalTV MX",10.1 Canal10 |Durango MX
 #EXTVLCOPT:network-caching=1000
 https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
 
@@ -61,8 +61,11 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.canalcatorce.tv/
 https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal26.mx",26.1 Canal 26 Aguascalientes (1080p)
+#EXTINF:-1 tvg-logo="https://imgur.com/Bt3SPxv.png" tvg-id="Canal26.mx" group-title="LocalTV MX",26.1 Canal 26 |Aguascalientes MX
+#EXTVLCOPT:network-caching=1000
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="Canal28.mx",28.1 Canal 28 Chihuahua (720p) 
 #EXTVLCOPT:http-referrer=https://player.castr.com/live_bf24d4208d8611eeb116dbe87aa63be0
