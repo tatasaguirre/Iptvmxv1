@@ -19,7 +19,7 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-id="CanalOchoTV.mx",8.1 Canal Ocho TV CDMX
 https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/hlHmKO7.png" tvg-id="8NTV.mx" channel-id="8NTV.mx" tvg-name="8NTV.mx" channel-number="8.1" tvc-guide-stationid="" tvg-country="MX" tvg-language="spanish" group-title="LocalTV MX" status="online",8NTV HD | Nayarit MX
+#EXTINF:-1 tvg-logo="https://imgur.com/hlHmKO7.png" tvg-id="8NTV.mx" group-title="LocalTV MX",8.1 8NTV HD | Nayarit MX
 #EXTVLCOPT:network-caching=1000 
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
 
