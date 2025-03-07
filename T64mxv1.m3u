@@ -51,6 +51,12 @@ https://live.iplanay.gob.mx/hls/nayarittv.m3u8
 #EXTINF:-1 tvg-id="ConectaTV.mx",10.4 Conecta TV Chihuahua
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 
+#EXTINF:-1 tvg-id="LoboTV.mx",Lobo TV (720p)
+https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LaVozGruperaTV.mx",La Voz Grupera TV (720p)
+https://cloudvideo.servers10.com:8081/8128/index.m3u8
+
 #EXTINF:-1 tvg-id="NayaritComunica.mx",10.5 Nayarit Comunica TV
 https://live.iplanay.gob.mx/hls/nayarittv.m3u8
 
@@ -80,8 +86,12 @@ https://stream.castr.com/653d77dcde70014f52ad1e19/live_bf24d4208d8611eeb116dbe87
 #EXTVLCOPT:network-caching=1000
 https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MexiquenseTV.mx",34.1 Mexiquense TV (720p)
+#EXTINF:-1 tvg-logo="https://imgur.com/3HVnhUn.png" tvg-id="MexiquenseTV.mx" group-title="LocalTV MX",,34.1 Mexiquense TV | CDMX
+#EXTVLCOPT:network-caching=1000
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="AMXNoticias.mx", 34.2 AMX Noticias
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
