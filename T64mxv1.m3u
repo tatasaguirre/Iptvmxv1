@@ -62,7 +62,7 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.canalcatorce.tv/
 https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/VcyFwAF.png" tvg-id="15TV.mx" group-title="LocalTV MX",,15.1 Canal 15TV | Sabinas Coahuila MX
+#EXTINF:-1 tvg-logo="https://imgur.com/wZcoDTO.png" tvg-id="15TV.mx" group-title="LocalTV MX",,15.1 Canal 15TV | Sabinas Coahuila MX
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://15tv.com.mx//
 https://cdn.fastocloud.com/leonel.m3u8
