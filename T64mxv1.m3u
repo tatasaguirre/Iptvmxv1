@@ -93,13 +93,14 @@ https://live.iplanay.gob.mx/hls/nayarittv.m3u8
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/MI2fEYR.png" tvg-id="SuperChannel12.mx" group-title="LocalTV MX",12.1 Super Channel 12 | MEXICO MX
+#EXTINF:-1 tvg-logo="https://imgur.com/MI2fEYR.png" tvg-id="SuperChannel12.mx" group-title="LocalTV MX",12.1 Super Channel 12 | Merida MX
 #EXTVLCOPT:network-caching=1000 
-#https://servilive.com:3263/live/channel12live.m3u8
+https://servilive.com:3263/live/channel12live.m3u8
 
 #EXTINF:-1 tvg-id="LoboTV.mx",Lobo TV (720p)
 https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
 
+https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/playlist.m3u8
 
 
 
