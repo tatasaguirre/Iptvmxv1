@@ -28,8 +28,13 @@ https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/rqeekTd.png" tvg-id="XHTTGTDT.mx"  group-title="LocalTV MX",10.1 Canal10|Chiapas MX
+#EXTINF:-1 tvg-logo="https://imgur.com/rqeekTd.png" tvg-id="XHTTGTDT.mx" group-title="LocalTV MX",10.1 Canal10 |Chiapas MX
+#EXTVLCOPT:network-caching=1000
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=".png" tvg-id="Canal10Durango.mx" group-title="LocalTV MX",10.1 Canal10| Durango MX
+#EXTVLCOPT:network-caching=1000
+https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal10Cancun.mx",10.1 Canal 10 Cancún 
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
@@ -37,8 +42,7 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal10Cancun.mx",10.2 Canal 10 Cancún (360p)
 https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="XHTTGTDT.mx",10.3 Canal 10 Chiapas (720p)
-https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/VYOCLVu.png" tvg-id="10NTV.mx" group-title="LocalTV MX",10.1 Nayarit GOB | MX
 #EXTVLCOPT:network-caching=1000 
