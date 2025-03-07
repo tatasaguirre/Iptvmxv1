@@ -54,6 +54,14 @@ https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 #EXTVLCOPT:network-caching=1000
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo=https://imgur.com/J5yhVLX.png" tvg-id="RTQQueretaro.mx" group-title="LocalTV MX",10.1 RTQ | Queretaro MX
+#EXTVLCOPT:network-caching=1000
+https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTQQueretaro.mx",RTQ Queretaro
+https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo=".png" tvg-id="Canal10Durango.mx" group-title="LocalTV MX",10.1 Canal10 |Durango MX
 #EXTVLCOPT:network-caching=1000
 https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
