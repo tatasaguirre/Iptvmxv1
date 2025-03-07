@@ -62,6 +62,11 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.canalcatorce.tv/
 https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/VcyFwAF.png" tvg-id="15TV.mx" group-title="LocalTV MX",,15.1 Canal 15TV | Sabinas Coahuila MX
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-referrer=https://15tv.com.mx//
+https://cdn.fastocloud.com/leonel.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/Bt3SPxv.png" tvg-id="Canal26.mx" group-title="LocalTV MX",26.1 Canal 26 |Aguascalientes MX
 #EXTVLCOPT:network-caching=1000
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
@@ -114,6 +119,10 @@ https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8
 https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ITVDeportes.mx",100.6 ITV Deportes
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+
+#EXTINF:-1 tvg-id="GikTVMX.mx",GikTVMx (480p)
+#EXTVLCOPT:http-referrer=https://giktvmx.g3radio.mx
+https://pistream.ddns.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="JusticiaTV.mx",100.7 Justicia TV (720p)
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
