@@ -23,6 +23,10 @@ https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8
 #EXTVLCOPT:network-caching=1000 
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/OazcMqb.png" tvg-id="RedBullTv.us" channel-id="RedBullTv.us" tvg-name="Red Bull TV"  channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA Cable",RedBullTV|HD 720p
+#EXTVLCOPT:network-caching=1000
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
 #EXTINF:-1 tvg-id="Canal10Cancun.mx",10.1 Canal 10 Cancún 
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
