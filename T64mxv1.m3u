@@ -2,7 +2,7 @@
 #EXTM3U url-tvg=https://gatotv.com
 #EXTM3U url-tvg=https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml 
 #EXTM3U url-tvg=https://i.mjh.nz/PlutoTV/all.xml.gz
-#EXTM3U url-tvg=https://www.tdtchannels.com/epg/TV.xml.gz
+https://www.tdtchannels.com/epg/TV.xml.gz
 #EXTM3U url-tvg=https://www.tdtchannels.com/epg/TV.xml
 
 MX: Local MX
