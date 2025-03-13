@@ -252,6 +252,10 @@ https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
 
 
 
+// MX: CARTOONS CLASSIC TV
+#EXTINF:-1 tvg-logo=".png" tvg-id="BRAVESTARR.mx" group-title="FULL CARTOONS" ,BraveStar The Legend |HD 
+#EXTVLCOPT:network-caching=1000 
+https://dn720304.ca.archive.org/0/items/bravestarr-1987/Bravestarr.Complete.DVDRip.ENG.X264.AAC%2FBravestarr.The.Legend.DVDRip.X264.mp4
 
 
 // USA: NEWS CHANNEL TV
