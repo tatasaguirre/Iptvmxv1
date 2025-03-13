@@ -191,15 +191,15 @@ https://cloudvideo.servers10.com:8081/8128/index.m3u8
 #EXTINF:-1 tvg-id="MilenioTelevision.mx",100.9 Milenio Television
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e922db4b047000825f975livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:60 tvg-logo=".png" tvg-id="EstrellaTV.mx" group-title="LocalTV MX",100.10 Estrella TV Mexico HD | 
+#EXTINF:60 tvg-logo="https://imgur.com/LquOgV6.png" tvg-id="EstrellaTV.mx" group-title="LocalTV MX",100.10 Estrella TV Mexico HD | 
 #EXTVLCOPT:network-caching=1000
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
 
-#EXTINF:60 tvg-logo=".png" tvg-id="EstrellaTV.mx" group-title="LocalTV MX",100.11 Estrella NEWS HD | 
+#EXTINF:60 tvg-logo="https://imgur.com/LquOgV6.png" tvg-id="EstrellaTV.mx" group-title="LocalTV MX",100.11 Estrella NEWS HD | 
 #EXTVLCOPT:network-caching=1000
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellanews-estrellamedia/playlist.m3u8
 
-#EXTINF:60 tvg-logo=".png" tvg-id="EstrellaTV.mx" group-title="LocalTV MX",100.12 Estrella GAMES TV | 
+#EXTINF:60 tvg-logo="https://imgur.com/LquOgV6.png" tvg-id="EstrellaTV.mx" group-title="LocalTV MX",100.12 Estrella GAMES TV | 
 #EXTVLCOPT:network-caching=1000
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-estrellamedia/playlist.m3u8
 
