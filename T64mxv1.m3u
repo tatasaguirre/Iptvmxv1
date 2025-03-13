@@ -177,8 +177,32 @@ https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ExpresaTV.mx",100.5 Expresa TV (720p)
 https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ITVDeportes.mx",100.6 ITV Deportes
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+
+
+#EXTINF:-1 tvg-id="JusticiaTV.mx",100.7 Justicia TV (720p)
+https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LaVozGruperaTV.mx",100.8 La Voz Grupera TV (720p)
+https://cloudvideo.servers10.com:8081/8128/index.m3u8
+
+#EXTINF:-1 tvg-id="MilenioTelevision.mx",100.9 Milenio Television
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e922db4b047000825f975livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:60 tvg-logo=".png" tvg-id="EstrellaTV.mx" group-title="LocalTV MX",100.10 Estrella TV Mexico HD | 
+#EXTVLCOPT:network-caching=1000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
+
+#EXTINF:60 tvg-logo=".png" tvg-id="EstrellaTV.mx" group-title="LocalTV MX",100.11 Estrella NEWS HD | 
+#EXTVLCOPT:network-caching=1000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellanews-estrellamedia/playlist.m3u8
+
+#EXTINF:60 tvg-logo=".png" tvg-id="EstrellaTV.mx" group-title="LocalTV MX",100.12 Estrella GAMES TV | 
+#EXTVLCOPT:network-caching=1000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-estrellamedia/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="XHUNESTDT.mx",Señal España TV 8.1 | Durango MX
 https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
@@ -199,14 +223,6 @@ https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/playlist.m3u8
 #EXTINF:-1 tvg-id="RalyTV.mx",Raly TV (720p)
 https://cloudvideo.servers10.com:8081/8072/index.m3u8
 
-#EXTINF:-1 tvg-id="JusticiaTV.mx",100.7 Justicia TV (720p)
-https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LaVozGruperaTV.mx",100.8 La Voz Grupera TV (720p)
-https://cloudvideo.servers10.com:8081/8128/index.m3u8
-
-#EXTINF:-1 tvg-id="MilenioTelevision.mx",100.9 Milenio Television
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e922db4b047000825f975livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/xfleQMJ.png" tvg-id="Filmex.mx" channel-id="Filmex.mx" tvg-name="Filmex.mx"  channel-number="501" tvc-guide-stationid="" tvg-country="LAT" tvg-language="SPANISH" group-title="LATINO TV" status="online",FilMex by XUMO|HD 720p
