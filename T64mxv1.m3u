@@ -17,6 +17,10 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e91fd6208700008dca
 #EXTVLCOPT:network-caching=1000
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/RfmSq8i.png" tvg-id="AsiSucede.mX" group-title="LocalTV MX",7.1 Asi Sucede | Celaya Gto MX 
+#EXTVLCOPT:network-caching=1000
+https://stream.ontvmx.com/ontv/zqlQBcV1Ey6od9bDi3/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/KMuly9K.png" tvg-id="AztecaInternacional.mX" group-title="LocalTV MX",7.1 Azteca Internacional 
 #EXTVLCOPT:network-caching=1000
 https://us-b4-p-e-ja16.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/xKksU77XTdiHFx8bMBpmOA/stream/89d6259a-b054-45cd-993d-0049ee3965e1:MRN2/variant/916251bb32f30729602ed34d20e20d11/bandwidth/814000.m3u8?aid=5fea09a071a9945deebf5f7c&uid=D1vA9MWVTy4PDUmD5CmgOVIOm6nwtwNQ&sid=qRmClZc5hfJ85ymzIuTmXmBA82SRoLSf&pid=LijcGleydXyJgChmQ5q2ojO7GnHonnFg&ref=https%3A%2F%2Fwww.tvazteca.com%2F&without_cookies=false&listenerid=&dnt=true&adInsertionGoogleStreamId=89d6259a-b054-45cd-993d-0049ee3965e1%3AMRN2&es=us-b4-p-e-ja16.cdn.mdstrm.com&ote=1741926093640&ot=mEkFHHB9_hKYlMdk-pOUrw&proto=https&pz=us
@@ -55,6 +59,9 @@ https://video1.getstreamhosting.com:1936/8032/8032/playlist.m3u8
 #EXTINF:-1 tvg-logo=".png" tvg-id="" channel-number="" tvg-country="MX" tvg-language="Spanish" group-title="LocalTV MX",    |HD
 #EXTVLCOPT:network-caching=1000
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/2f5tP5Z.png" tvg-id="NueveTV.mx" group-title="LocalTV MX",9.1 Nueve TV | San Luís Potosí MX
