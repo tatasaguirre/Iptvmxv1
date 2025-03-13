@@ -16,15 +16,15 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e91fd6208700008dca
 #EXTINF:-1 tvg-id="AztecaInternacional.mx",7.1 Azteca Internacional 
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/Kcg0V7e.png" tvg-id="XHUNESTDT.mx" group-title="LocalTV MX,Señal España TV 8.1 | Durango MX
+https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
+
 #EXTINF:-1 tvg-id="CanalOchoTV.mx",8.1 Canal Ocho TV CDMX
 https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://imgur.com/9VRiRv2.png" tvg-id="SIPSETVCUN81.mx" group-title="LocalTV MX",8.1 SIPSE TVCUN | CANCUN MX
 #EXTVLCOPT:network-caching=1000 
 https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://imgur.com/hlHmKO7.png" tvg-id="8NTV.mx" group-title="LocalTV MX",8.1 8NTV HD | Nayarit MX
 #EXTVLCOPT:network-caching=1000 
@@ -50,6 +50,7 @@ https://video1.getstreamhosting.com:1936/8032/8032/playlist.m3u8
 #EXTINF:-1 tvg-logo=".png" tvg-id="" channel-number="" tvg-country="MX" tvg-language="Spanish" group-title="LocalTV MX",    |HD
 #EXTVLCOPT:network-caching=1000
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/2f5tP5Z.png" tvg-id="NueveTV.mx" group-title="LocalTV MX",9.1 Nueve TV | San Luís Potosí MX
 #EXTVLCOPT:network-caching=1000 
@@ -179,6 +180,9 @@ https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ITVDeportes.mx",100.6 ITV Deportes
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 
+#EXTINF:-1 tvg-id="XHUNESTDT.mx",Señal España TV 8.1 | Durango MX
+https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
+
 #EXTINF:-1 tvg-id="GikTVMX.mx",GikTVMx (480p)
 #EXTVLCOPT:http-referrer=https://giktvmx.g3radio.mx
 https://pistream.ddns.net/hls/stream.m3u8
@@ -214,20 +218,32 @@ https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
 https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
 
 
-PERU: Local PE
-#EXTINF:-1 tvg-id="ILCECanal15SummaSaberes.mx",15.1 Canal 15 ILCE Summa Sabres (720p)
-https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
 
 
-USA: LOCAL TV
 
+
+// USA: NEWS CHANNEL TV
+#EXTINF:-1 tvg-logo="https://imgur.com/x38vIV5.png" tvg-id="ABCNEWS.us" channel-id="ABCNEWS.usm" tvg-name="ABCNEWS.us"  channel-number="900" tvc-guide-stationid="" tvg-country="US" tvg-language="ENGLISH" group-title="USA NEWS TV" status="online",CINE SONY|HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+
+// USA: LOCAL TV
 #EXTINF:-1 tvg-logo="https://imgur.com/AJabypp.png" tvg-id="RomanzaPlusAfrica.ke"group-title="USA CableTV" ,1000.1 Romanza+ Africa | Keyna Africa(720p)
 https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/x38vIV5.png" tvg-id="ABCNEWS.us" channel-id="ABCNEWS.usm" tvg-name="ABCNEWS.us"  channel-number="900" tvc-guide-stationid="" tvg-country="US" tvg-language="ENGLISH" group-title="USA NEWS TV" status="online",CINE SONY|HD 720p
+// US: ION PLus
+
+#EXTINF:-1 tvg-logo="https://imgur.com/tjS60Hd.png" tvg-id="IONPlus.us" tvg-name="ION Plus" channel-id="IONPlus.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",ION Plus | HD 720p
 #EXTVLCOPT:network-caching=1000 
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/6pFvdXP.png" tvg-id="IONPlus.us" tvg-name="ION Plus" channel-id="IONPlus.us" channel-number="" tvc-guide-stationid="" tvg-country="US" tvg-language="English" group-title="USA TV" status="online",ION Plus | HD 720p
+#EXTVLCOPT:network-caching=1000 
+https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
+
+
+
 
 
 
@@ -258,6 +274,9 @@ MEXICO: LOCAL TV
 #EXTVLCOPT:network-caching=1000 
 https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
 
+PERU: Local PE
+#EXTINF:-1 tvg-id="ILCECanal15SummaSaberes.mx",15.1 Canal 15 ILCE Summa Sabres (720p)
+https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
 
 
 TV WORLD: ANIMALES
