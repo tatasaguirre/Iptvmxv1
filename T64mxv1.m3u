@@ -11,6 +11,7 @@ MX: Local MX
 #EXTVLCOPT:network-caching=1000
 https://tvportalmx.com:3604/live/lasestrellaslive.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Of044Jx.png" tvg-id="TVCuatro41.mx" group-title="LocalTV MX",4.1 TV Cuatro | CDMX
 #EXTVLCOPT:network-caching=1000
 https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
@@ -19,6 +20,7 @@ https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
 #EXTVLCOPT:network-caching=1000
 https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://imgur.com/jSgIOiI.png" tvg-id="Canal5.mx" group-title="LocalTV MX", 5.1 Canal 5 HD | CDMX
 #EXTVLCOPT:network-caching=1000
 http://181.78.105.146:2000/play/a038/index.m3u8
@@ -26,6 +28,7 @@ http://181.78.105.146:2000/play/a038/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/drfoFky.png" tvg-id="Canal5.mx" group-title="LocalTV MX", 5.2 Canal 5 HD | CDMX
 #EXTVLCOPT:network-caching=1000
 https://tvportalmx.com:3796/live/canal5live.m3u8
+
 
 #EXTINF:-1 tvg-id="MultimediosCDMX.mx",6.1 Canal 6 HD | CDMX
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e91fd6208700008dcaf7blivestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
@@ -45,6 +48,7 @@ https://stream.ontvmx.com/ontv/zqlQBcV1Ey6od9bDi3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KMuly9K.png" tvg-id="AztecaInternacional.mX" group-title="LocalTV MX",7.1 Azteca Internacional 
 #EXTVLCOPT:network-caching=1000
 https://us-b4-p-e-ja16.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/xKksU77XTdiHFx8bMBpmOA/stream/89d6259a-b054-45cd-993d-0049ee3965e1:MRN2/variant/916251bb32f30729602ed34d20e20d11/bandwidth/814000.m3u8?aid=5fea09a071a9945deebf5f7c&uid=D1vA9MWVTy4PDUmD5CmgOVIOm6nwtwNQ&sid=qRmClZc5hfJ85ymzIuTmXmBA82SRoLSf&pid=LijcGleydXyJgChmQ5q2ojO7GnHonnFg&ref=https%3A%2F%2Fwww.tvazteca.com%2F&without_cookies=false&listenerid=&dnt=true&adInsertionGoogleStreamId=89d6259a-b054-45cd-993d-0049ee3965e1%3AMRN2&es=us-b4-p-e-ja16.cdn.mdstrm.com&ote=1741926093640&ot=mEkFHHB9_hKYlMdk-pOUrw&proto=https&pz=us
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Kcg0V7e.png" tvg-id="XHUNESTDT.mx" group-title="LocalTV MX,Señal España TV 8.1 | Durango MX
 https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
@@ -121,8 +125,11 @@ https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 #EXTVLCOPT:network-caching=1000 
 https://live.iplanay.gob.mx/hls/nayarittv.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/3u7muL9.png" tvg-id="XEIPNTDT.mx" group-title="LocalTV MX",11.1 Canal ONCE | MEXICO MX
+#EXTINF:-1 tvg-logo="https://imgur.com/yJbN4dq.png" tvg-id="XEIPNTDT.mx" group-title="LocalTV MX",11.0 Canal ONCE | CDMX
 #EXTVLCOPT:network-caching=1000 
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/MgZfxR1.png" tvg-id="XEIPNTDT.mx" group-title="LocalTV MX",11.0 Canal Once México |XEIPN-TDT
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
 
