@@ -19,7 +19,6 @@ https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
 #EXTVLCOPT:network-caching=1000
 https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://imgur.com/jSgIOiI.png" tvg-id="Canal5.mx" group-title="LocalTV MX", 5.1 Canal 5 HD | CDMX
 #EXTVLCOPT:network-caching=1000
 http://181.78.105.146:2000/play/a038/index.m3u8
@@ -34,6 +33,10 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e91fd6208700008dca
 #EXTINF:-1 tvg-logo="https://imgur.com/KMuly9K.png" tvg-id="AztecaInternacional.mX" group-title="LocalTV MX",7.1 Azteca Internacional 
 #EXTVLCOPT:network-caching=1000
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/0hA8GVI.png" tvg-id="APlusGuate.gt" group-title="LocalTV MX",7.2 A+ | Guatemala 
+#EXTVLCOPT:network-caching=1000
+https://ch2-tva.duin.dev/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/RfmSq8i.png" tvg-id="AsiSucede.mX" group-title="LocalTV MX",7.1 Asi Sucede | Celaya Gto MX 
 #EXTVLCOPT:network-caching=1000
