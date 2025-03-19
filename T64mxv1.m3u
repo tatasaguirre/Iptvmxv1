@@ -80,6 +80,11 @@ https://video1.getstreamhosting.com:1936/8246/8246/playlist.m3u8
 #EXTVLCOPT:network-caching=1000 
 https://video1.getstreamhosting.com:1936/8032/8032/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/Lkm2PrR.png" tvg-id="Canal8.cr" group-title="LocalTVCR",8.1 Canal 8 |COSTA-RICA
+#EXTVLCOPT:network-caching=1000 
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+
+
 
 #EXTINF:-1 tvg-logo=".png" tvg-id="" channel-number="" tvg-country="MX" tvg-language="Spanish" group-title="LocalTV MX",    |HD
 #EXTVLCOPT:network-caching=1000
@@ -108,11 +113,11 @@ https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo=".png" tvg-id="Canal10Durango.mx" group-title="LocalTV MX",10.1 Canal10 |Durango MX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H34quHQ.png" tvg-id="Canal10Durango.mx" group-title="LocalTV MX",10.1 Canal10 | Durango MX
 #EXTVLCOPT:network-caching=1000
 https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal10Cancun.mx",10.1 Canal 10 Cancún 
+#EXTINF:-1 tvg-id="Canal10Cancun.mx",10.1 Canal 10 | Cancún MX
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal10Cancun.mx",10.2 Canal 10 Cancún (360p)
@@ -141,6 +146,11 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTVLCOPT:network-caching=1000 
 https://servilive.com:3263/live/channel12live.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/0qlk2X3.png" tvg-id="13MaxTelevision.ar" group-title="LocalTVMX",13.1Max Televisión | Espana
+#EXTVLCOPT:network-caching=1000 
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LoboTV.mx" tvg-logo="https://i.imgur.com/3fA50RJ.png" group-title="Music TV",Lobo TV | MX
 https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
