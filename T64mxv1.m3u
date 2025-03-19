@@ -2,7 +2,7 @@
 #EXTM3U url-tvg=https://gatotv.com
 #EXTM3U url-tvg=https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml 
 #EXTM3U url-tvg=https://i.mjh.nz/PlutoTV/all.xml.gz
-https://www.tdtchannels.com/epg/TV.xml.gz
+#EXTM3U url-tvg=https://www.tdtchannels.com/epg/TV.xml.gz
 #EXTM3U url-tvg=https://www.tdtchannels.com/epg/TV.xml
 
 MX: Local MX
@@ -11,8 +11,22 @@ MX: Local MX
 #EXTVLCOPT:network-caching=1000
 https://tvportalmx.com:3604/live/lasestrellaslive.m3u8
 
-#EXTINF:-1 tvg-id="Canal5.mx",5.1 Canal 5 HD | CDMX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Of044Jx.png" tvg-id="TVCuatro41.mx" group-title="LocalTV MX",4.1 TV Cuatro | CDMX
+#EXTVLCOPT:network-caching=1000
+https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Of044Jx.png" tvg-id="TVCuatro42.mx" group-title="LocalTV MX",4.2 TV Cuatro | CDMX
+#EXTVLCOPT:network-caching=1000
+https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/jSgIOiI.png" tvg-id="Canal5.mx" group-title="LocalTV MX", 5.1 Canal 5 HD | CDMX
+#EXTVLCOPT:network-caching=1000
 http://181.78.105.146:2000/play/a038/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/drfoFky.png" tvg-id="Canal5.mx" group-title="LocalTV MX", 5.2 Canal 5 HD | CDMX
+#EXTVLCOPT:network-caching=1000
+https://tvportalmx.com:3796/live/canal5live.m3u8
 
 #EXTINF:-1 tvg-id="MultimediosCDMX.mx",6.1 Canal 6 HD | CDMX
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e91fd6208700008dcaf7blivestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
