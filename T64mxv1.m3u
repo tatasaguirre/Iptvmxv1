@@ -7,6 +7,11 @@ https://www.tdtchannels.com/epg/TV.xml.gz
 
 MX: Local MX
 
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="LocalTV MX",2.0 Las Estrellas |CDMX
+#https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTVLCOPT:network-caching=1000
+https://tvportalmx.com:3604/live/lasestrellaslive.m3u8
+
 #EXTINF:-1 tvg-id="Canal5.mx",5.1 Canal 5 HD | CDMX
 http://181.78.105.146:2000/play/a038/index.m3u8
 
