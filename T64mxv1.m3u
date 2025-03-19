@@ -9,6 +9,8 @@ MX: Local MX
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/g5ShxZ7.png" tvg-id="LasEstrellas.mx" group-title="LocalTV MX",2.0 Las Estrellas |CDMX
 #EXTVLCOPT:network-caching=1000
+
+#EXTINF:-1 tvg-id="Canal5.mx",5.1 Canal 5 HD | CDMX
 https://tvportalmx.com:3604/live/lasestrellaslive.m3u8
 
 #EXTINF:-1 tvg-id="Canal5.mx",5.1 Canal 5 HD | CDMX
