@@ -125,6 +125,10 @@ https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 #EXTVLCOPT:network-caching=1000 
 https://live.iplanay.gob.mx/hls/nayarittv.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IDvpRNI.png" tvg-id="CaliforniaMediosTV.mx" group-title="LocalTVMX",10.0 California Medios TV
+#EXTVLCOPT:network-caching=1000 
+https://s5.mexside.net:1936/medios/medios/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/yJbN4dq.png" tvg-id="XEIPNTDT.mx" group-title="LocalTV MX",11.0 Canal ONCE | CDMX
 #EXTVLCOPT:network-caching=1000 
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
@@ -216,8 +220,7 @@ https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
 #EXTINF:-1 tvg-id="AntenaTV.mx",100.2 Antena TV (1080p)
 https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CaliforniaMediosTV.mx",100.3 California Medios TV (720p)
-https://s5.mexside.net:1936/medios/medios/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="ElSonorense.mx",100.4 El Sonorense TV (1080p)
 https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8
