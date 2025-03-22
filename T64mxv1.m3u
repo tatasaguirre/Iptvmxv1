@@ -138,6 +138,12 @@ https://s5.mexside.net:1936/medios/medios/playlist.m3u8
 #EXTVLCOPT:network-caching=1000 
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/snBMMeH.png" group-title="General",Az TV (1080p)
+https://str.yodacdn.net/aztv/index.m3u8
+
+#EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="Entertainment",Azteca Internacional (1080p)
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/MgZfxR1.png" tvg-id="XEIPNTDT.mx" group-title="LocalTV MX",11.0 Canal Once México |XEIPN-TDT
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
@@ -234,9 +240,9 @@ https://5ca3e84a76d30.streamlock.net:443/teleyucatan/videoteleyucatan/playlist.m
 #EXTINF:-1 tvg-id="AlcanceTV.mx",100.1 Alcance TV (720p)
 https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AntenaTV.mx",100.2 Antena TV (1080p)
-https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AntenaTV.mx" tvg-logo="https://i.imgur.com/1sAgSME.png" group-title="General",Antena TV (1080p)
+https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="ElSonorense.mx",100.4 El Sonorense TV (1080p)
@@ -322,6 +328,33 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 #EXTINF:-1 tvg-logo="https://imgur.com/AJabypp.png" tvg-id="RomanzaPlusAfrica.ke"group-title="USA CableTV" ,1000.1 Romanza+ Africa | Keyna Africa(720p)
 https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AMC.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Movies",AMC (1080p)
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:87_HD.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Movies",AMC East
+http://170.254.18.106/AMC/mono.m3u8
+
+#EXTINF:-1 tvg-id="AMCPlus.us" tvg-logo="https://i.imgur.com/abtANyj.png" group-title="Entertainment",AMC+ (1080p)
+https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AMGTV.us" tvg-logo="https://i.imgur.com/m5Anun9.png" group-title="Family",AMG TV (1080p)
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AreWeThereYet.us" tvg-logo="https://i.imgur.com/3BJQiHP.png" group-title="Undefined",Are we there Yet? [Geo-blocked]
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyetnl-samsungnl/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",AXN
+http://170.254.18.106/AXN/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="Undefined",BBC America East (720p)
+https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",BET
+http://170.254.18.106/BET/index.m3u8
+
+#EXTINF:-1 tvg-id="BounceXL.us" tvg-logo="https://i.imgur.com/GzxgSkc.png" group-title="Entertainment",Bounce XL (720p)
+https://d37v4ie0vq884e.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ujoygpbfraxho/bounce_xl.m3u8
+
 
 // US: ION PLus
 
@@ -360,6 +393,9 @@ https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 
 LATAM: SPANISH TV
 
+ANIME TV: LOCALTV
+#EXTINF:-1 tvg-id="AnimeTV.br" tvg-logo="https://i.imgur.com/CFSSTID.png" group-title="Animation",Anime TV (360p) [Not 24/7]
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
 ARGENTINA: TV LOCAL
 
@@ -371,7 +407,21 @@ https://octubre-live.cdn.vustreams.com/live/channel09/live.isml/live.m3u8
 #EXTVLCOPT:network-caching=1000 
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
+BRAZIL: TVLOCAL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KgetM8j.png" tvg-id="AdessoTV.br" group-title="General",Adesso TV | BRASIL
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 
+BOLIVIA: LOCALTV
+#EXTINF:-1 tvg-id="BoliviaTV72.bo" tvg-logo="https://i.imgur.com/tKLYYys.png" group-title="General",Bolivia TV 7.2 (720p)
+https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BoliviaTV.bo" tvg-logo="https://i.imgur.com/tKLYYys.png" group-title="General",Bolivia TV (720p) [Not 24/7]
+http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
+
+COLOMBIA: TVLOCAL
+
+#EXTINF:-1 tvg-id="ANCTelevision.co" tvg-logo="https://i.imgur.com/xjTU14t.jpg" group-title="Entertainment",ANC Televisión (480p) [Not 24/7]
+https://canal.mediaserver.com.co/live/ANCTELEVISION.m3u8
 
 COSTA RICA: TV LOCAL
 
@@ -383,7 +433,28 @@ CHILE: TV LOCAL
 #EXTINF:-1 tvg-logo="https://imgur.com/T0xRdue.png" tvg-id="13T.cl" group-title="TVLocalChile;Series",13 Teleseries | CHILE
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 
+#EXTINF:-1 tvg-id="AtacamaNoticias.cl" tvg-logo="https://i.imgur.com/Avx4Ecf.png" group-title="News",Atacama Noticias (720p) [Not 24/7]
+https://v2.tustreaming.cl/atacamanoticias/index.m3u8
 
+DOMINICANA: TVLOCAL
+#EXTINF:-1 tvg-id="AIONTV.do" tvg-logo="https://i.imgur.com/DBvm7YS.png" group-title="General",AION TV (1080p)
+https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
+#EXTINF:-1 tvg-id="BajoTechoTV.do" tvg-logo="https://i.imgur.com/I2wRq88.png" group-title="Undefined",Bajo Techo TV (1080p) [Not 24/7]
+https://rdn.essastream.com:3042/live/bajotechotvlive.m3u8
+#EXTINF:-1 tvg-id="Boreal.do" tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="Undefined",Boreal (720p)
+https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
+
+ECUADOR: LOCAL TV
+#EXTINF:-1 tvg-id="AntenaUnoRadiovideo.ec" tvg-logo="https://i.imgur.com/PCN6iZJ.png" group-title="Undefined",Antena Uno RadioVideo (360p)
+https://tvdatta.com:3578/live/antenaunolive.m3u8
+
+GRECIA: TVLOCAL
+#EXTINF:-1 tvg-id="AtticaTV.gr" tvg-logo="https://i.imgur.com/s3qWC9W.png" group-title="Undefined",Attica TV (1080p)
+http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
+
+ESPANA: LOCALTV
+#EXTINF:-1 tvg-id="AragonTV.es" tvg-logo="https://i.imgur.com/6YSi1zW.png" group-title="Undefined",Aragón TV (720p) [Not 24/7]
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
 MEXICO: LOCAL TV
 
@@ -394,6 +465,9 @@ https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
 PERU: Local PE
 #EXTINF:-1 tvg-id="ILCECanal15SummaSaberes.mx",15.1 Canal 15 ILCE Summa Sabres (720p)
 https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AutenticaTelevision.pe" tvg-logo="https://i.imgur.com/bEJK3RN.png" group-title="Undefined",Auténtica Televisión (720p) [Not 24/7]
+https://live.obslivestream.com/autenticatvmux/index.m3u8
 
 
 TV WORLD: ANIMALES
