@@ -7,14 +7,26 @@
 
 MX: Local MX
 
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-logohttps://imgur.com/Ot8cL4a.png" group-title="Noticias;Cultura",DW Español | Alemania
+#EXTVLCOPT:network-caching=1000
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g5ShxZ7.png" tvg-id="LasEstrellas.mx" group-title="LocalTV MX",2.0 Canal Las Estrellas HD | CDMX
 #EXTVLCOPT:network-caching=1000
 https://tvportalmx.com:3604/live/lasestrellaslive.m3u8
+
+#EXTINF:-1 tvg-id="TVPObregon.mx" tvg-logo="https://imgur.com/hL7kZxd.png" group-title="LocalTV MX",3.1 TVP | Obregon MX
+#EXTVLCOPT:network-caching=1000
+https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Of044Jx.png" tvg-id="TVCuatro41.mx" group-title="LocalTV MX",4.1 TV Cuatro | CDMX
 #EXTVLCOPT:network-caching=1000
 https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
+
+#EXTINF:-1 tvg-id="XHGVTDT.mx" tvg-logo="https://imgur.com/292W8Xz.png" group-title="LocalTV MX",4.1 TV-MAS XHGV-TDT | VERACRUZ MX
+#EXTVLCOPT:network-caching=100
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Of044Jx.png" tvg-id="TVCuatro42.mx" group-title="LocalTV MX",4.2 TV Cuatro | CDMX
 #EXTVLCOPT:network-caching=1000
@@ -24,6 +36,10 @@ https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/jSgIOiI.png" tvg-id="Canal5.mx" group-title="LocalTV MX", 5.1 Canal 5 HD | CDMX
 #EXTVLCOPT:network-caching=1000
 http://181.78.105.146:2000/play/a038/index.m3u8
+
+#EXTINF:-1 tvg-id="TVPMazatlan.mx" tvg-logo="https://imgur.com/hL7kZxd.png" group-title="LocalTV MX",5.1 TVP | Mazatlan MX
+#EXTVLCOPT:network-caching=1000
+https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/drfoFky.png" tvg-id="Canal5.mx" group-title="LocalTV MX", 5.2 Canal 5 HD | CDMX
 #EXTVLCOPT:network-caching=1000
@@ -47,6 +63,14 @@ https://ch2-tva.duin.dev/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/RfmSq8i.png" tvg-id="AsiSucede.mX" group-title="LocalTV MX",7.1 Asi Sucede | Celaya Gto MX 
 #EXTVLCOPT:network-caching=1000
 https://stream.ontvmx.com/ontv/zqlQBcV1Ey6od9bDi3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVPLosMochis.mx" tvg-logo="https://imgur.com/hL7kZxd.png" group-title="LocalTV MX",7.1 TVP | Los Mochis MX
+#EXTVLCOPT:network-caching=1000
+https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="XHFNTDT1.mx" tvg-logo="https://i.imgur.com/aGup2ag.png" group-title="General",7.1 TV 7 XHFN-TDT1 | Nuevo Leon MX
+#EXTVLCOPT:network-caching=1000
+https://live.info7.mx/info7/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/KMuly9K.png" tvg-id="AztecaInternacional.mX" group-title="LocalTV MX",7.1 Azteca Internacional 
 #EXTVLCOPT:network-caching=1000
@@ -101,6 +125,13 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 
 
+
+#EXTINF:-1 tvg-id="XHGVTDT.mx" tvg-logo="https://imgur.com/292W8Xz.png" group-title="LocalTV MX",4.1 TV-MAS XHGV-TDT | VERACRUZ MX
+#EXTVLCOPT:network-caching=100
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://imgur.com/2f5tP5Z.png" tvg-id="NueveTV.mx" group-title="LocalTV MX",9.1 Nueve TV | San Luís Potosí MX
 #EXTVLCOPT:network-caching=1000 
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
@@ -110,6 +141,10 @@ https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/rqeekTd.png" tvg-id="XHTTGTDT.mx" group-title="LocalTV MX",10.1 Canal10 |Chiapas MX
 #EXTVLCOPT:network-caching=1000
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVPCuliacan.mx" tvg-logo="https://imgur.com/uaRskIf.png" group-title="LocalTV MX",10.1 TVP | Culiacan MX
+#EXTVLCOPT:network-caching=1000
+https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo=https://imgur.com/J5yhVLX.png" tvg-id="RTQQueretaro.mx" group-title="LocalTV MX",10.1 RTQ | Queretaro MX
@@ -202,6 +237,10 @@ http://181.78.105.146:2000/play/a00h/index.m3u8
 #EXTVLCOPT:http-referrer=https://15tv.com.mx//
 https://cdn.fastocloud.com/leonel.m3u8
 
+#EXTINF:-1 tvg-id="XEWHTDT.mx" tvg-logo="https://imgur.com/thoVKCI.png" group-title="General",19.1 Telemax XEWH-TDT | Hermosillo MX
+#EXTVLCOPT:network-caching=1000
+http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/LTrAvB2.png" tvg-id="MegavisionCanal21.sv" group-title="LocalTV SV",21.0 Megavisión Canal 21 | Salvador
 #EXTVLCOPT:network-caching=1000
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
@@ -218,6 +257,10 @@ https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3
 #EXTINF:-1 tvg-logo="https://imgur.com/Bt3SPxv.png" tvg-id="Canal26.mx" group-title="LocalTV MX",26.1 Canal 26 | Aguascalientes MX
 #EXTVLCOPT:network-caching=1000
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVMas.mx" tvg-logo="https://imgur.com/292W8Xz.png" group-title="LocalTV MX",26.1 TVMas | Veracruz MX
+#EXTVLCOPT:network-caching=1000
+https://60417ddeaf0d9.streamlock.net/telemetrika3/telemetrika3.smil/.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/HW2dTnw.png" tvg-id="XHPBZCTDT1.mx" group-title="LocalTV MX",26.1 SET Televisión | Puebla MX
@@ -250,6 +293,9 @@ https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="AMXNoticias.mx" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="LocalTV MX;Noticias",34.2 AMX Noticias
+#EXTVLCOPT:network-caching=1000
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="AMXNoticias.mx", 34.2 AMX Noticias
@@ -264,6 +310,9 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTVLCOPT:network-caching=1000
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 
+#EXTINF:-1 tvg-id="XHTTGTDT.mx" tvg-logo="https://imgur.com/ZiJcB25.png" group-title="General",44.2 XHTTG-TDT | Chiapas MX
+#EXTVLCOPT:network-caching=1000
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 
 
 
@@ -313,6 +362,11 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellanews-es
 #EXTINF:60 tvg-logo="https://imgur.com/LquOgV6.png" tvg-id="EstrellaTV.mx" group-title="LocalTV MX",100.12 Estrella GAMES TV | 
 #EXTVLCOPT:network-caching=1000
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-estrellamedia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="UltraTVPuebla.mx" tvg-logo="https://imgur.com/Iqhnapb.png" group-title="LocalTV MX",102.5 Ultra TV | Puebla MX
+#EXTVLCOPT:network-caching=1000
+https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="XHUNESTDT.mx",Señal España TV 8.1 | Durango MX
@@ -424,7 +478,11 @@ https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 
 
+ESPANA: LOCALTV
 
+#EXTINF:-1 tvg-id="24HorasInternacional.es" tvg-logo="https://imgur.com/U24K26F.png" group-title="LocalTV SP;Noticias",24 Horas Internacional | Espana
+#EXTVLCOPT:network-caching=1000 
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 
 
 
