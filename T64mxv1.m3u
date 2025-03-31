@@ -262,6 +262,10 @@ https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlis
 #EXTVLCOPT:network-caching=1000
 https://60417ddeaf0d9.streamlock.net/telemetrika3/telemetrika3.smil/.m3u8
 
+#EXTINF:-1 tvg-id="TVPlus2.cl" tvg-logo="https://https://imgur.com/PzUHGzj.png" group-title="Cultura;Entretenimiento;Animación",TV MÁS 2 | Chile
+#EXTVLCOPT:network-caching=1000
+https://marine2.miplay.cl/tateti/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/HW2dTnw.png" tvg-id="XHPBZCTDT1.mx" group-title="LocalTV MX",26.1 SET Televisión | Puebla MX
 #EXTVLCOPT:network-caching=1000
@@ -415,6 +419,9 @@ https://ia600204.us.archive.org/16/items/TheStoryOfHeidiEnglishVersion/The%20Sto
 #EXTINF:-1 tvg-logo="https://imgur.com/x38vIV5.png" tvg-id="ABCNEWS.us" channel-id="ABCNEWS.usm" tvg-name="ABCNEWS.us"  channel-number="900" tvc-guide-stationid="" tvg-country="US" tvg-language="ENGLISH" group-title="USA NEWS TV" status="online",CINE SONY|HD 720p
 #EXTVLCOPT:network-caching=1000 
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+
+#EXTINF:-1 tvg-id="CBSNewsLosAngeles.us" tvg-logo="https://imgur.com/dAhgqnM.png" group-title="Noticias",31.1 CBS News KCBS-TV | Los Angeles
+https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
 
 // USA: LOCAL TV
 #EXTINF:-1 tvg-logo="https://imgur.com/AJabypp.png" tvg-id="RomanzaPlusAfrica.ke"group-title="USA CableTV" ,1000.1 Romanza+ Africa | Keyna Africa(720p)
