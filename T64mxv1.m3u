@@ -206,9 +206,14 @@ https://cdn.fastocloud.com/leonel.m3u8
 #EXTVLCOPT:network-caching=1000
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
 
+
 #EXTINF:-1 tvg-id="TlaxcalaTV.mx" tvg-logo="https://i.imgur.com/5vaEhfy.png" group-title="LocalTV MX",23.1 Tlaxcala TV
 #EXTVLCOPT:network-caching=1000
 https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?token=null
+
+#EXTINF:-1 tvg-id="TVMarLaPaz.mx" tvg-logo="https://imgur.com/Bty5KlA.png" group-title="LocalTV MX",23.1 TV Mar | La Paz MX
+#EXTVLCOPT:network-caching=1000
+https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Bt3SPxv.png" tvg-id="Canal26.mx" group-title="LocalTV MX",26.1 Canal 26 | Aguascalientes MX
 #EXTVLCOPT:network-caching=1000
@@ -222,6 +227,10 @@ http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/HW2dTnw.png" tvg-id=""XHPBZCTDT2.mx" group-title="LocalTV MX",26.2 SET Televisión | Puebla MX
 #EXTVLCOPT:network-caching=1000
 http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVMarPuertoVallarta.mx" tvg-logo="https://i.imgur.com/z9iVlMn.png" group-title="LocalTV MX",27.1 TV Mar |Puerto Vallarta MX
+#EXTVLCOPT:network-caching=1000
+https://5ca3e84a76d30.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/HHPQxwO.png" tvg-id="Canal28.mx" group-title="LocalTV MX",28.1 Canal 28 | Chihuahua MX
 #EXTVLCOPT:http-referrer=https://player.castr.com/live_bf24d4208d8611eeb116dbe87aa63be0
