@@ -37,6 +37,9 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e91fd6208700008dca
 #EXTVLCOPT:network-caching=1000
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="LocalTV",Azteca 7 | MX
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/0hA8GVI.png" tvg-id="APlusGuate.gt" group-title="LocalTV MX",7.2 A+ | Guatemala 
 #EXTVLCOPT:network-caching=1000
 https://ch2-tva.duin.dev/hls/stream.m3u8
@@ -83,6 +86,10 @@ https://video1.getstreamhosting.com:1936/8032/8032/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Lkm2PrR.png" tvg-id="Canal8.cr" group-title="LocalTVCR",8.1 Canal 8 |COSTA-RICA
 #EXTVLCOPT:network-caching=1000 
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+
+#EXTINF:-1 tvg-id="XHPBZCTDT2.mx" tvg-logo="https://imgur.com/0q8ms2O.png" group-title="LocalTV MX",Canal 8 XHPBZC-TDT2 | LaPaz MX
+#EXTVLCOPT:network-caching=1000 
+http://189.240.210.28:1935/live/setpuebla/playlist.m3u8
 
 
 
@@ -177,6 +184,13 @@ https://stream.aprende.gob.mx/live/hls/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.canalcatorce.tv/
 https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="TVGuanajuato.mx" tvg-logo="https://i.imgur.com/EkmGL4q.png" group-title="Cultura",Canal 14 | GTO MX
+#EXTVLCOPT:network-caching=1000
+https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="IMAGENTV.mx" tvg-logo="http://i.imgur.com/kuA0j7G.png" group-title="LocalTV MX",IMAGEN TV | MX
+#EXTVLCOPT:network-caching=1000
+http://181.78.105.146:2000/play/a00h/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/wZcoDTO.png" tvg-id="15TV.mx" group-title="LocalTV MX",,15.1 Canal 15TV | Sabinas Coahuila MX
@@ -192,6 +206,7 @@ https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
 #EXTVLCOPT:network-caching=1000
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://imgur.com/HW2dTnw.png" tvg-id="XHPBZCTDT1.mx" group-title="LocalTV MX",26.1 SET Televisión | Puebla MX
 #EXTVLCOPT:network-caching=1000
 http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
@@ -203,6 +218,10 @@ http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/HHPQxwO.png" tvg-id="Canal28.mx" group-title="LocalTV MX",28.1 Canal 28 | Chihuahua MX
 #EXTVLCOPT:http-referrer=https://player.castr.com/live_bf24d4208d8611eeb116dbe87aa63be0
 https://stream.castr.com/653d77dcde70014f52ad1e19/live_bf24d4208d8611eeb116dbe87aa63be0/rewind-3600.m3u8
+
+#EXTINF:-1 tvg-id="XHMNLTDT.mx" tvg-logo="https://imgur.com/6NJvJWu.png" group-title="LocalTV MX",Canal 28 XHMNL-TDT |NL MX
+#EXTVLCOPT:network-caching=1000
+https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/OwdNKgQ.png" tvg-id="Canal33Tijuana.mx" group-title="LocalTV MX",33.2 Canal 33 | Tijuana MX
