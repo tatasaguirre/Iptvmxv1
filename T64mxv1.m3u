@@ -36,9 +36,18 @@ https://tvportalmx.com:3604/live/lasestrellaslive.m3u8
 https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Of044Jx.png" tvg-id="TVCuatro41.mx" group-title="LocalTV MX",4.1 TV Cuatro | CDMX
+
+#EXTINF:-1 tvg-id="TVCuatro41.mx" tvg-logo="https://imgur.com/szh1B61.png" group-title="LocalTV MX",4.1 TV Cuatro | CDMX
 #EXTVLCOPT:network-caching=1000
 https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
+
+#EXTINF:-1 tvg-id="TVCuatro42.mx" tvg-logo="https://imgur.com/szh1B61.png" group-title="LocalTV MX",4.2 TV Cuatro | CDMX
+#EXTVLCOPT:network-caching=1000
+https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
+
+#EXTINF:-1 tvg-id="TVCuatro43.mx" tvg-logo="https://imgur.com/szh1B61.png" group-title="LocalTV MX",4.3 TV Cuatro | CDMX
+#EXTVLCOPT:network-caching=1000
+https://5f1af61612fb5.streamlock.net/tv43/tv43.smil/.m3u8
 
 #EXTINF:-1 tvg-id="XHGVTDT.mx" tvg-logo="https://imgur.com/292W8Xz.png" group-title="LocalTV MX",4.1 TV-MAS XHGV-TDT | VERACRUZ MX
 #EXTVLCOPT:network-caching=100
@@ -47,6 +56,7 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Of044Jx.png" tvg-id="TVCuatro42.mx" group-title="LocalTV MX",4.2 TV Cuatro | CDMX
 #EXTVLCOPT:network-caching=1000
 https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/jSgIOiI.png" tvg-id="Canal5.mx" group-title="LocalTV MX", 5.1 Canal 5 HD | CDMX
@@ -91,6 +101,10 @@ https://live.info7.mx/info7/stream.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/KMuly9K.png" tvg-id="AztecaInternacional.mX" group-title="LocalTV MX",7.1 Azteca Internacional 
 #EXTVLCOPT:network-caching=1000
 https://us-b4-p-e-ja16.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/xKksU77XTdiHFx8bMBpmOA/stream/89d6259a-b054-45cd-993d-0049ee3965e1:MRN2/variant/916251bb32f30729602ed34d20e20d11/bandwidth/814000.m3u8?aid=5fea09a071a9945deebf5f7c&uid=D1vA9MWVTy4PDUmD5CmgOVIOm6nwtwNQ&sid=qRmClZc5hfJ85ymzIuTmXmBA82SRoLSf&pid=LijcGleydXyJgChmQ5q2ojO7GnHonnFg&ref=https%3A%2F%2Fwww.tvazteca.com%2F&without_cookies=false&listenerid=&dnt=true&adInsertionGoogleStreamId=89d6259a-b054-45cd-993d-0049ee3965e1%3AMRN2&es=us-b4-p-e-ja16.cdn.mdstrm.com&ote=1741926093640&ot=mEkFHHB9_hKYlMdk-pOUrw&proto=https&pz=us
+
+#EXTINF:-1 tvg-id="RCGTV.mx" tvg-logo="https://imgur.com/OttERwn.png" group-title="",RCG TV | Coahuila MX
+#EXTVLCOPT:network-caching=1000
+https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 
 
 
@@ -152,12 +166,18 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/2f5tP5Z.png" tvg-id="NueveTV.mx" group-title="LocalTV MX",9.1 Nueve TV | San Luís Potosí MX
+#EXTINF:-1 tvg-id="NueveTV.mx" tvg-logo="https://imgur.com/2f5tP5Z.png" group-title="LocalTV MX",9.1 Nueve TV | San Luís Potosí MX
 #EXTVLCOPT:network-caching=1000 
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 
 
+#EXTINF:-1 tvg-id="TVMarLaPaz.mx" tvg-logo="https://imgur.com/XlsWSxQ.png" group-title="General",10.1 TV Mar | La Paz MX
+#EXTVLCOPT:network-caching=1000
+https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TVMarLaPaz.mx" tvg-logo="https://imgur.com/QmUwdEA.png" group-title="General",10.2 TV Mar | Puerto Vallarta MX
+#EXTVLCOPT:network-caching=1000
+https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/rqeekTd.png" tvg-id="XHTTGTDT.mx" group-title="LocalTV MX",10.1 Canal10 |Chiapas MX
 #EXTVLCOPT:network-caching=1000
@@ -180,7 +200,7 @@ https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVLobo.mx" tvg-logo="https://i.imgur.com/q9p1Spj.png" group-title="LocalTV MX",10.2 TV Lobo | DGO MX
+#EXTINF:-1 tvg-id="TVLobo.mx" tvg-logo="https://imgur.com/Hk0bjqW.png" group-title="LocalTV MX",10.2 TV Lobo | DGO MX
 #EXTVLCOPT:network-caching=1000
 https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
 
@@ -228,6 +248,9 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 https://servilive.com:3263/live/channel12live.m3u8
 
 
+#EXTINF:-1 tvg-id="Canal13Oaxaca.mx" tvg-logo="https://imgur.com/5SBgXN8.png" group-title="LocalMX",13.1 Canal 13 | Oaxaca MX
+#EXTVLCOPT:network-caching=1000 
+https://207963.global.ssl.fastly.net/65313d270e749722b6474684/live_0bd65ed0dfbf11ee848c53d8a686e201/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/0qlk2X3.png" tvg-id="13MaxTelevision.ar" group-title="LocalTVMX",13.1Max Televisión | Espana
 #EXTVLCOPT:network-caching=1000 
@@ -279,13 +302,22 @@ http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
 
 
-#EXTINF:-1 tvg-id="TlaxcalaTV.mx" tvg-logo="https://i.imgur.com/5vaEhfy.png" group-title="LocalTV MX",23.1 Tlaxcala TV
+
+
+#EXTINF:-1 tvg-id="TlaxcalaTV.mx" tvg-logo="https://imgur.com/i40W5iC.png" group-title="",23.1 Tlaxcala TV | MX
 #EXTVLCOPT:network-caching=1000
 https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?token=null
 
 #EXTINF:-1 tvg-id="TVMarLaPaz.mx" tvg-logo="https://imgur.com/Bty5KlA.png" group-title="LocalTV MX",23.1 TV Mar | La Paz MX
 #EXTVLCOPT:network-caching=1000
 https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="24Zacatecastv.mx" tvg-logo=".png" group-title="LocalTV MX",24.1 Zacatecas TV | MX
+#EXTVLCOPT:network-caching=1000
+https://5ca9af4645e15.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Bt3SPxv.png" tvg-id="Canal26.mx" group-title="LocalTV MX",26.1 Canal 26 | Aguascalientes MX
 #EXTVLCOPT:network-caching=1000
@@ -432,13 +464,7 @@ https://cloudvideo.servers10.com:8081/8072/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/xfleQMJ.png" tvg-id="Filmex.mx" channel-id="Filmex.mx" tvg-name="Filmex.mx"  channel-number="501" tvc-guide-stationid="" tvg-country="LAT" tvg-language="SPANISH" group-title="LATINO TV" status="online",FilMex by XUMO|HD 720p
-#EXTVLCOPT:network-caching=1000 
-https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/9fAXnpA.png" tvg-id="FilmexClasico.mx" channel-id="FilmexClasico.mx" tvg-name="FilmexClasico.mx"  channel-number="503" tvc-guide-stationid="" tvg-country="LAT" tvg-language="SPANISH" group-title="LATINO TV" status="online",FilMex Clasico|HD 720p
-#EXTVLCOPT:network-caching=1000 
-https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Farovision.do" tvg-logo="https://i.imgur.com/YtdOXWb.png" group-title="Cultura",Farovisión (720p)
 https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
