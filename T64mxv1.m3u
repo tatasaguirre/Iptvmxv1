@@ -5,7 +5,11 @@
 #EXTM3U url-tvg=https://www.tdtchannels.com/epg/TV.xml.gz
 #EXTM3U url-tvg=https://www.tdtchannels.com/epg/TV.xml
 
-MX: Local MX
+
+MX: CABLE MX
+#EXTINF:-1 tvg-id="MyTimeMovieNetworkMexico.mx" tvg-logo="https://imgur.com/AoU5sjw.png" group-title="CABLE MX",MyTime Movie Network | Mexico
+#EXTVLCOPT:network-caching=1000 
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/xfleQMJ.png" tvg-id="Filmex.mx" channel-id="Filmex.mx" tvg-name="Filmex.mx"  channel-number="501" tvc-guide-stationid="" tvg-country="LAT" tvg-language="SPANISH" group-title="LATINO TV" status="online",FilMex by XUMO|HD 720p
 #EXTVLCOPT:network-caching=1000 
@@ -14,6 +18,10 @@ https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9fAXnpA.png" tvg-id="FilmexClasico.mx" channel-id="FilmexClasico.mx" tvg-name="FilmexClasico.mx"  channel-number="503" tvc-guide-stationid="" tvg-country="LAT" tvg-language="SPANISH" group-title="LATINO TV" status="online",FilMex Clasico|HD 720p
 #EXTVLCOPT:network-caching=1000 
 https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
+
+
+
+MX: Local MX
 
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-logohttps://imgur.com/Ot8cL4a.png" group-title="Noticias;Cultura",DW Español | Alemania
 #EXTVLCOPT:network-caching=1000
@@ -85,6 +93,8 @@ https://live.info7.mx/info7/stream.m3u8
 https://us-b4-p-e-ja16.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/xKksU77XTdiHFx8bMBpmOA/stream/89d6259a-b054-45cd-993d-0049ee3965e1:MRN2/variant/916251bb32f30729602ed34d20e20d11/bandwidth/814000.m3u8?aid=5fea09a071a9945deebf5f7c&uid=D1vA9MWVTy4PDUmD5CmgOVIOm6nwtwNQ&sid=qRmClZc5hfJ85ymzIuTmXmBA82SRoLSf&pid=LijcGleydXyJgChmQ5q2ojO7GnHonnFg&ref=https%3A%2F%2Fwww.tvazteca.com%2F&without_cookies=false&listenerid=&dnt=true&adInsertionGoogleStreamId=89d6259a-b054-45cd-993d-0049ee3965e1%3AMRN2&es=us-b4-p-e-ja16.cdn.mdstrm.com&ote=1741926093640&ot=mEkFHHB9_hKYlMdk-pOUrw&proto=https&pz=us
 
 
+
+
 #EXTINF:-1 tvg-logo="https://imgur.com/Kcg0V7e.png" tvg-id="XHUNESTDT.mx" group-title="LocalTV MX,Señal España TV 8.1 | Durango MX
 https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
 
@@ -125,6 +135,8 @@ http://189.240.210.28:1935/live/setpuebla/playlist.m3u8
 
 
 
+
+
 #EXTINF:-1 tvg-logo=".png" tvg-id="" channel-number="" tvg-country="MX" tvg-language="Spanish" group-title="LocalTV MX",    |HD
 #EXTVLCOPT:network-caching=1000
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
@@ -143,6 +155,7 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/2f5tP5Z.png" tvg-id="NueveTV.mx" group-title="LocalTV MX",9.1 Nueve TV | San Luís Potosí MX
 #EXTVLCOPT:network-caching=1000 
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
+
 
 
 
@@ -174,7 +187,13 @@ https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal10Cancun.mx",10.1 Canal 10 | Cancún MX
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="NoticiasCanal10.mx" tvg-logo=https://imgur.com/FgTNDKU.png" group-title="News",10.1 Noticias Canal 10
+#EXTVLCOPT:network-caching=1000
+https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Canal10Cancun.mx",10.2 Canal 10 Cancún (360p)
+#EXTVLCOPT:network-caching=1000
 https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ConectaTV.mx",10.4 Conecta TV Chihuahua
@@ -187,6 +206,8 @@ https://live.iplanay.gob.mx/hls/nayarittv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IDvpRNI.png" tvg-id="CaliforniaMediosTV.mx" group-title="LocalTVMX",10.0 California Medios TV
 #EXTVLCOPT:network-caching=1000 
 https://s5.mexside.net:1936/medios/medios/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yJbN4dq.png" tvg-id="XEIPNTDT.mx" group-title="LocalTV MX",11.0 Canal ONCE | CDMX
 #EXTVLCOPT:network-caching=1000 
@@ -235,7 +256,7 @@ https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="IMAGENTV.mx" tvg-logo="http://i.imgur.com/kuA0j7G.png" group-title="LocalTV MX",IMAGEN TV | MX
+#EXTINF:-1 tvg-id="IMAGENTV.mx" tvg-logo="http://i.imgur.com/kuA0j7G.png" group-title="LocalTV MX",14.1 IMAGEN TV | MX
 #EXTVLCOPT:network-caching=1000
 http://181.78.105.146:2000/play/a00h/index.m3u8
 
@@ -244,6 +265,10 @@ http://181.78.105.146:2000/play/a00h/index.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-referrer=https://15tv.com.mx//
 https://cdn.fastocloud.com/leonel.m3u8
+
+#EXTINF:-1 tvg-id="ILCECanal15SummaSaberes.mx" tvg-logo="https://imgur.com/mPjKz3T.png" group-title="",15.1 Canal ILCE Summa Saberes
+#EXTVLCOPT:network-caching=1000
+https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="XEWHTDT.mx" tvg-logo="https://imgur.com/thoVKCI.png" group-title="General",19.1 Telemax XEWH-TDT | Hermosillo MX
 #EXTVLCOPT:network-caching=1000
@@ -339,6 +364,8 @@ https://5ca3e84a76d30.streamlock.net:443/teleyucatan/videoteleyucatan/playlist.m
 #EXTINF:-1 tvg-id="AlcanceTV.mx",100.1 Alcance TV (720p)
 https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ExpresaTV.mx" tvg-logo="https://imgur.com/y89QhbQ.png" group-title="General",Expresa TV
+https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AntenaTV.mx" tvg-logo="https://i.imgur.com/1sAgSME.png" group-title="General",Antena TV (1080p)
 https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
@@ -393,6 +420,9 @@ https://cloudvideo.servers10.com:8081/8128/index.m3u8
 
 #EXTINF:-1 tvg-id="SintesisTV.mx",Síntesis TV (480p)
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/sintesis_tv.m3u8
+
+#EXTINF:-1 tvg-id="MariaVision.mx" tvg-logo="https://imgur.com/r8UJsrf.png" group-title="Religious",Maria Vision | TV
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
 #EXTINF:-1 tvg-id="TeleplaySureste.mx",Teleplay Sureste (720p)
 https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/playlist.m3u8
