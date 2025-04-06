@@ -11,6 +11,37 @@ MX: CABLE MX
 #EXTVLCOPT:network-caching=1000 
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://imgur.com/LzsrNvm.png" group-title="News",DW Español | HD
+#EXTVLCOPT:network-caching=1000 
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1 tvg-id="RTVE.es" tvg-logo="https://imgur.com/5wOobDP.png" group-title="Spain;LocalTV ES",24H Español | SPAIN HD
+#EXTVLCOPT:network-caching=1000 
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
+
+#EXTINF:-1 tvg-id="RVESTAR.es" tvg-logo="https://imgur.com/7Ak4cma.png" group-title="Spain;LocalTV ES",TVE STAR | SPAIN HD
+#EXTVLCOPT:network-caching=1000 
+https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
+
+#EXTINF:-1 tvg-id="RVESTAR.es" tvg-logo="https://imgur.com/kzt42W6.png" group-title="Spain;LocalTV ES",CLAN TVE INTERNACIONAL | SPAIN HD
+#EXTVLCOPT:network-caching=1000 
+https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
+
+#EXTINF:-1 tvg-id="RTVE.es" tvg-logo="https://imgur.com/WnRaC7H.png" group-title="Spain;LocalTV ES",LA 2 HD | SPAIN 
+#EXTVLCOPT:network-caching=1000 
+http://185.189.225.150:85/TV2/index.m3u8
+
+#EXTINF:-1 tvg-id="cGTN.ch" tvg-logo="https://imgur.com/NlfelhQ.png" group-title="China;LocalTV ES",CGTN TV Espanol | CHINA 
+#EXTVLCOPT:network-caching=1000 
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+
+#EXTINF:-1 tvg-id="cctv4n.ch" tvg-logo="https://imgur.com/NlfelhQ.png" group-title="China;LocalTV ES",CCTV-4N TV | CHINA 
+#EXTVLCOPT:network-caching=1000 
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://imgur.com/xfleQMJ.png" tvg-id="Filmex.mx" channel-id="Filmex.mx" tvg-name="Filmex.mx"  channel-number="501" tvc-guide-stationid="" tvg-country="LAT" tvg-language="SPANISH" group-title="LATINO TV" status="online",FilMex by XUMO|HD 720p
 #EXTVLCOPT:network-caching=1000 
 https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
@@ -18,6 +49,21 @@ https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/9fAXnpA.png" tvg-id="FilmexClasico.mx" channel-id="FilmexClasico.mx" tvg-name="FilmexClasico.mx"  channel-number="503" tvc-guide-stationid="" tvg-country="LAT" tvg-language="SPANISH" group-title="LATINO TV" status="online",FilMex Clasico|HD 720p
 #EXTVLCOPT:network-caching=1000 
 https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/ESOFNrC.png" group-title="MOVIES",7.1 CANAL 7 | NEUQUEN 
+#EXTVLCOPT:network-caching=1000 
+https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/Q276qpf.png" group-title="MOVIES",9.1 CANAL 9 | LITORAL 
+#EXTVLCOPT:network-caching=1000 
+https://stream.arcast.live/canal9litoral/ngrp:canal9litoral_all/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="MOVIES",40.1 CANAL 40 | CAUCETE 
+#EXTVLCOPT:network-caching=1000 
+https://canalsj.kozow.com/canal40/tracks-a1/index.fmp4.m3u8
+
 
 
 
@@ -47,7 +93,7 @@ https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
 
 #EXTINF:-1 tvg-id="TVCuatro43.mx" tvg-logo="https://imgur.com/szh1B61.png" group-title="LocalTV MX",4.3 TV Cuatro | CDMX
 #EXTVLCOPT:network-caching=1000
-https://5f1af61612fb5.streamlock.net/tv43/tv43.smil/.m3u8
+https://5ca3e84a76d30.streamlock.net/tv43/videotv43/playlist.m3u8
 
 #EXTINF:-1 tvg-id="XHGVTDT.mx" tvg-logo="https://imgur.com/292W8Xz.png" group-title="LocalTV MX",4.1 TV-MAS XHGV-TDT | VERACRUZ MX
 #EXTVLCOPT:network-caching=100
@@ -229,9 +275,11 @@ https://s5.mexside.net:1936/medios/medios/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/yJbN4dq.png" tvg-id="XEIPNTDT.mx" group-title="LocalTV MX",11.0 Canal ONCE | CDMX
+#EXTINF:-1 tvg-id="XEIPNTDT.mx" tvg-logo="https://imgur.com/yJbN4dq.png" group-title="LocalTV MX",11.0 Canal ONCE | CDMX
 #EXTVLCOPT:network-caching=1000 
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/snBMMeH.png" group-title="General",Az TV (1080p)
 https://str.yodacdn.net/aztv/index.m3u8
@@ -421,6 +469,10 @@ https://cloudvideo.servers10.com:8081/8128/index.m3u8
 
 #EXTINF:-1 tvg-id="MilenioTelevision.mx",100.9 Milenio Television
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e922db4b047000825f975livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+
+#EXTINF:-1 tvg-id="TVMigrante.mx" tvg-logo="https://raw.githubusercontent.com/Osares10/ipmx/refs/heads/main/logos/TV%20Migrante.png",TV Migrante
+https://s5.mexside.net:1936/tvmigrante/tvmigrante/playlist.m3u8
 
 #EXTINF:60 tvg-logo="https://imgur.com/LquOgV6.png" tvg-id="EstrellaTV.mx" group-title="LocalTV MX",100.10 Estrella TV Mexico HD | 
 #EXTVLCOPT:network-caching=1000
