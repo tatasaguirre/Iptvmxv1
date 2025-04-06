@@ -861,7 +861,39 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 #EXTINF:-1 tvg-id="CBSNewsLosAngeles.us" tvg-logo="https://imgur.com/dAhgqnM.png" group-title="Noticias",31.1 CBS News KCBS-TV | Los Angeles
 https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
 
+#EXTINF:-1 tvg-id="denver8tv.us" tvg-logo="https://imgur.com/sQwmt00.png" group-title="LocalTV US",Denver 8 TV| COLORADO
+#EXTVLCOPT:network-caching=1000
+https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/denver/G0080_002/playlist.m3u8
+
+
 // USA: LOCAL TV
+
+
+#EXTINF:-1 tvg-id="Cozytv.us" tvg-logo="https://imgur.com/4VodHK0.png" group-title="LocalTV US",Cozy TV | USA
+#EXTVLCOPT:network-caching=1000 
+http://fl3.moveonjoy.com/COZI_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Comey.us" tvg-logo="https://imgur.com/QZGrfYS.png" group-title="LocalTV US",Comet TV | USA
+#EXTVLCOPT:network-caching=1000 
+http://fl3.moveonjoy.com/COMET/index.m3u8
+
+#EXTINF:-1 tvg-id="FXM.us" tvg-logo=".png" group-title="LocalTV US",FXM TV | USA
+#EXTVLCOPT:network-caching=1000 
+https://v1.thetvapp.to/hls/FXMovieChannel/index.m3u8
+
+#EXTINF:-1 tvg-id="fnx.us" tvg-logo="https://imgur.com/J3Ui25m.png" group-title="LocalTV US",FNX TV | USA
+#EXTVLCOPT:network-caching=1000 
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8
+
+#EXTINF:-1 tvg-id="DOVE.us" tvg-logo="https://imgur.com/sQwmt00.png" group-title="LocalTV US",Dove Channel TV | USA
+#EXTVLCOPT:network-caching=1000 
+https://amg01201-cinedigmenterta-dove-cineverse-1fck5.amagi.tv/playlist/amg01201-cinedigmenterta-dove-cineverse/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ElectrcNow.us" tvg-logo="https://imgur.com/NSNqexJ.png" group-title="LocalTV US",Electric Now Channel TV | USA
+#EXTVLCOPT:network-caching=1000 
+https://elec-en.otteravision.com/elec/en/elec_en.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://imgur.com/AJabypp.png" tvg-id="RomanzaPlusAfrica.ke"group-title="USA CableTV" ,1000.1 Romanza+ Africa | Keyna Africa(720p)
 https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8
 
