@@ -27,6 +27,10 @@ https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 #EXTVLCOPT:network-caching=1000 
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 
+#EXTINF:-1 tvg-id="RVESTAR.es" tvg-logo="https://imgur.com/kzt42W6.png" group-title="Spain;LocalTV ES",TVE INTERNACIONAL | SPAIN HD
+#EXTVLCOPT:network-caching=1000 
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
+
 #EXTINF:-1 tvg-id="RTVE.es" tvg-logo="https://imgur.com/WnRaC7H.png" group-title="Spain;LocalTV ES",LA 2 HD | SPAIN 
 #EXTVLCOPT:network-caching=1000 
 http://185.189.225.150:85/TV2/index.m3u8
@@ -40,7 +44,13 @@ https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="TELESUR.AR" tvg-logo="https://imgur.com/ldxVCQk.png" group-title="Argentina;LocalTV AR",TELESUR HD | ARGENTINA 
+#EXTVLCOPT:network-caching=1000 
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo=".png" group-title="LocalTV CL",TV SOLIDARIA HD | ARGENTINA 
+#EXTVLCOPT:network-caching=1000 
+https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/xfleQMJ.png" tvg-id="Filmex.mx" channel-id="Filmex.mx" tvg-name="Filmex.mx"  channel-number="501" tvc-guide-stationid="" tvg-country="LAT" tvg-language="SPANISH" group-title="LATINO TV" status="online",FilMex by XUMO|HD 720p
 #EXTVLCOPT:network-caching=1000 
