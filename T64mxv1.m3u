@@ -928,6 +928,10 @@ https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTVLCOPT:network-caching=1000 
 https://linear-593.frequency.stream/dist/xumo/593/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ONECRIMEANDJUSTINE.us" tvg-logo="https://imgur.com/mfLuis3.png" group-title="LocalTV US",One Crime & Justice | USA
+#EXTVLCOPT:network-caching=1000
+https://apollo.production-public.tubi.io/live/ac-tv-one.m3u8
+
 #EXTINF:-1 tvg-id="DOVE.us" tvg-logo="https://imgur.com/sQwmt00.png" group-title="LocalTV US",Dove Channel TV | USA
 #EXTVLCOPT:network-caching=1000 
 https://amg01201-cinedigmenterta-dove-cineverse-1fck5.amagi.tv/playlist/amg01201-cinedigmenterta-dove-cineverse/playlist.m3u8
