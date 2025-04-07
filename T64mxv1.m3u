@@ -11,6 +11,10 @@ MX: CABLE MX
 #EXTVLCOPT:network-caching=1000 
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MyTimeMovieNetworkMexico.mx" tvg-logo="https://imgur.com/AoU5sjw.png" group-title="CABLE MX",MyTime Movie Network | Mexico
+#EXTVLCOPT:network-caching=1000 
+https://mytime-tcl.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://imgur.com/LzsrNvm.png" group-title="News",DW Español | HD
 #EXTVLCOPT:network-caching=1000 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
@@ -867,6 +871,13 @@ https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/denver/G0080_002/playlist.m3u8
 
 
 // USA: LOCAL TV
+#EXTINF:-1 tvg-id="pbs.us" tvg-logo="https://imgur.com/wwZ98xr.png" group-title="LocalTV US",PBS Kansas | USA
+#EXTVLCOPT:network-caching=1000
+https://cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8
+
+#EXTINF:-1 tvg-id="CW.us" tvg-logo="https://imgur.com/kDvsYKs.png" group-title="LocalTV US",CW Kansas KCWE-DT1 | USA
+#EXTVLCOPT:network-caching=1000 
+https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
 
 
 #EXTINF:-1 tvg-id="Cozytv.us" tvg-logo="https://imgur.com/4VodHK0.png" group-title="LocalTV US",Cozy TV | USA
@@ -877,13 +888,41 @@ http://fl3.moveonjoy.com/COZI_TV/index.m3u8
 #EXTVLCOPT:network-caching=1000 
 http://fl3.moveonjoy.com/COMET/index.m3u8
 
-#EXTINF:-1 tvg-id="FXM.us" tvg-logo=".png" group-title="LocalTV US",FXM TV | USA
+#EXTINF:-1 tvg-id="Comey.us" tvg-logo="https://imgur.com/QZGrfYS.png" group-title="LocalTV US",Comet KRCG-DT2 | USA
+#EXTVLCOPT:network-caching=1000 
+https://cvtv.cvalley.net/hls/KRCGComet/KRCGComet.m3u8
+
+#EXTINF:-1 tvg-id="STARTV.us" tvg-logo="https://imgur.com/AskugzA.png" group-title="LocalTV US",StarTV | USA
+#EXTVLCOPT:network-caching=1000 
+http://fl3.moveonjoy.com/Start_Tv/index.m3u8
+
+#EXTINF:-1 tvg-id="FXM.us" tvg-logo="https://imgur.com/J3Ui25m.png" group-title="LocalTV US",FXM TV | USA
 #EXTVLCOPT:network-caching=1000 
 https://v1.thetvapp.to/hls/FXMovieChannel/index.m3u8
+
+#EXTINF:-1 tvg-id="Grit.us" tvg-logo="https://imgur.com/bv4wYzS.png" group-title="LocalTV US",GRIT TV | USA
+#EXTVLCOPT:network-caching=1000 
+http://fl2.moveonjoy.com/GRIT_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Grit.us" tvg-logo="https://imgur.com/Dy8pRCH.png" group-title="LocalTV US",GRIT Extra TV | USA
+#EXTVLCOPT:network-caching=1000 
+https://livetv-fa.tubi.video/grit-extra/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Hallmarkfamily.us" tvg-logo="https://imgur.com/4Nrjp3K.png" group-title="LocalTV US",HallMark Family | USA
+#EXTVLCOPT:network-caching=1000 
+http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+
+#EXTINF:-1 tvg-id="Hallmarkmoviesmore.us" tvg-logo="https://imgur.com/H82O5By.png" group-title="LocalTV US",HallMark Movies&More | USA
+#EXTVLCOPT:network-caching=1000 
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/628e685ba3811100070551a8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291886-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=58dbb587-5d0d-412d-ae10-107ee9caac5a
 
 #EXTINF:-1 tvg-id="fnx.us" tvg-logo="https://imgur.com/J3Ui25m.png" group-title="LocalTV US",FNX TV | USA
 #EXTVLCOPT:network-caching=1000 
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8
+
+#EXTINF:-1 tvg-id="ionmystery.us" tvg-logo="https://imgur.com/tSepXlr.png" group-title="LocalTV US",ION Mystery | USA
+#EXTVLCOPT:network-caching=1000 
+https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DOVE.us" tvg-logo="https://imgur.com/sQwmt00.png" group-title="LocalTV US",Dove Channel TV | USA
 #EXTVLCOPT:network-caching=1000 
