@@ -27,6 +27,11 @@ https://s5.mexside.net:1936/cortv/cortv/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="visiontelevision.mx" tvg-logo="https://imgur.com/mJD9gAx.png" group-title="Local TV MX",Vision Television | MEXICO
+#EXTVLCOPT:network-caching=1000 
+https://cloudvideo.servers10.com:8081/8016/index.m3u8
+
 #EXTINF:-1 tvg-id="TeleYucatan.mx",Tele Yucatan [Geo-blocked]
 https://5ca3e84a76d30.streamlock.net:443/teleyucatan/videoteleyucatan/playlist.m3u8
 
@@ -37,9 +42,14 @@ MX: CABLE MX
 #EXTVLCOPT:network-caching=1000 
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
+
 #EXTINF:-1 tvg-id="MyTimeMovieNetworkMexico.mx" tvg-logo="https://imgur.com/AoU5sjw.png" group-title="CABLE MX",MyTime Movie Network | Mexico
 #EXTVLCOPT:network-caching=1000 
 https://iptv-org.github.io/iptv/regions/latam.m3u
+
+#EXTINF:-1 tvg-id="MyTimeMovieNetworkMexico.mx" tvg-logo="https://imgur.com/AoU5sjw.png" group-title="CABLE MX",MyTime Movie Network | Mexico
+#EXTVLCOPT:network-caching=1000 
+https://appletree-mytime-samsungmexico.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1 tvg-id="MyTimeMovieNetworkMexico.mx" tvg-logo="https://imgur.com/AoU5sjw.png" group-title="CABLE MX",MyTime Movie Network | Mexico
 #EXTVLCOPT:network-caching=1000 
@@ -563,6 +573,11 @@ https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 #EXTINF:-1 tvg-id="XHIJTDT.mx",44.1 Canal 44 Ciudad Juárez (720p)
 https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8
 
+
+
+#EXTINF:-1 tvg-id="MariaVision.mx" tvg-logo="https://imgur.com/S70KfPd.png" group-title="Religious",Maria Vision | TV
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
+
 #EXTINF:-1 tvg-id="itvdeportes.mx" tvg-logo="https://imgur.com/qB36b8q.png" group-title="Sports TV",ITV Deportes | Mexico
 #EXTVLCOPT:network-caching=1000
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
@@ -635,8 +650,9 @@ https://cloudvideo.servers10.com:8081/8128/index.m3u8
 #EXTINF:-1 tvg-id="SintesisTV.mx",Síntesis TV (480p)
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/sintesis_tv.m3u8
 
-#EXTINF:-1 tvg-id="MariaVision.mx" tvg-logo="https://imgur.com/r8UJsrf.png" group-title="Religious",Maria Vision | TV
-https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="TeleplaySureste.mx",Teleplay Sureste (720p)
 https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/playlist.m3u8
