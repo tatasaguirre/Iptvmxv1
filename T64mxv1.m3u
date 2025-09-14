@@ -13,6 +13,10 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MyTimeMovieNetworkMexico.mx" tvg-logo="https://imgur.com/AoU5sjw.png" group-title="CABLE MX",MyTime Movie Network | Mexico
 #EXTVLCOPT:network-caching=1000 
+https://iptv-org.github.io/iptv/regions/latam.m3u
+
+#EXTINF:-1 tvg-id="MyTimeMovieNetworkMexico.mx" tvg-logo="https://imgur.com/AoU5sjw.png" group-title="CABLE MX",MyTime Movie Network | Mexico
+#EXTVLCOPT:network-caching=1000 
 https://mytime-tcl.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://imgur.com/LzsrNvm.png" group-title="News",DW Español | HD
