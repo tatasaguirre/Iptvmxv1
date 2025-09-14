@@ -373,8 +373,7 @@ https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/1y3Bt90.png" tvg-id="Canal2nacional.mx" group-title="LocalTV SV",22.0 CanalVeitidos | MEXICO
 #EXTVLCOPT:network-caching=1000
-https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/chunklist_w1863413650_b3428000_sleng.m3u8
-
+https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/chunklist_w1262029895_b3428000_sleng.m3u8
 
 
 
