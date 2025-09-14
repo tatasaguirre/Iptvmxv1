@@ -133,13 +133,19 @@ https://5e50264bd6766.streamlock.net/radtvguerrero/videoradtvguerrero/playlist.m
 #EXTVLCOPT:network-caching=1000
 https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Of044Jx.png" tvg-id="TVCuatro42.mx" group-title="LocalTV MX",4.2 TV Cuatro | CDMX
+#EXTINF:-1 tvg-logo="https://imgur.com/5fjO2mr.png" tvg-id="TVCuatro42.mx" group-title="LocalTV MX",4.2 TV Cuatro | CDMX
 #EXTVLCOPT:network-caching=1000
 https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
 
-#EXTINF:-1 tvg-id="TVCuatro43.mx" tvg-logo="https://imgur.com/szh1B61.png" group-title="LocalTV MX",4.3 TV Cuatro | CDMX
+#EXTINF:-1 tvg-id="TVCuatro43.mx" tvg-logo="https://imgur.com/HvBiD0s.png" group-title="LocalTV MX",4.3 TV Cuatro | CDMX
 #EXTVLCOPT:network-caching=1000
 https://5ca3e84a76d30.streamlock.net/tv43/videotv43/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVCuatro44.mx" tvg-logo="https://imgur.com/fl1Ub2b.png" group-title="LocalTV MX",4.4 TV Cuatro | CDMX
+#EXTVLCOPT:network-caching=1000
+https://5ca3e84a76d30.streamlock.net/tv44gto/smil:tv44gto.smil/chunklist_w1407308176_b978000_sleng.m3u8
+
+
 
 #EXTINF:-1 tvg-id="SQCSCANAL4.MX" tvg-logo="https://imgur.com/yuSf6Eu.png" group-title="Local TV MX",4.1 SQCS CANAL 4 | QUINTANA ROO MX
 #EXTVLCOPT:network-caching=1000
