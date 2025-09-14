@@ -308,6 +308,10 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/MgZfxR1.png" tvg-id="XEIPNTDT.mx" group-title="LocalTV MX",11.0 Canal Once México |XEIPN-TDT
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
+#EXTINF:-1 tvg-id="XHPBZCTDT.mx" tvg-logo="https://imgur.com/RhyYCiA.png" group-title="LocalTV MX",11.0 Canal Estatal de Comunicaciones | PUEBLA
+#EXTVLCOPT:network-caching=1000 
+https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w818826532.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/MI2fEYR.png" tvg-id="SuperChannel12.mx" group-title="LocalTV MX",12.1 Super Channel 12 | Merida MX
 #EXTVLCOPT:network-caching=1000 
