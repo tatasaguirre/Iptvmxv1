@@ -17,6 +17,11 @@ https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u
 
 
 
+#EXTINF:-1 tvg-id="UltraTVPuebla.mx" tvg-logo="https://imgur.com/Iqhnapb.png" group-title="LocalTV MX",102.5 Ultra TV | Puebla MX
+#EXTVLCOPT:network-caching=1000
+https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
+
+
 
 
 
@@ -249,30 +254,6 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 
 
-#EXTINF:-1 tvg-id="TVMarLaPaz.mx" tvg-logo="https://imgur.com/XlsWSxQ.png" group-title="General",10.1 TV Mar | La Paz MX
-#EXTVLCOPT:network-caching=1000
-https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVMarLaPaz.mx" tvg-logo="https://imgur.com/QmUwdEA.png" group-title="General",10.2 TV Mar | Puerto Vallarta MX
-#EXTVLCOPT:network-caching=1000
-https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/rqeekTd.png" tvg-id="XHTTGTDT.mx" group-title="LocalTV MX",10.1 Canal10 |Chiapas MX
-#EXTVLCOPT:network-caching=1000
-https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVPCuliacan.mx" tvg-logo="https://imgur.com/uaRskIf.png" group-title="LocalTV MX",10.1 TVP | Culiacan MX
-#EXTVLCOPT:network-caching=1000
-https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo=https://imgur.com/J5yhVLX.png" tvg-id="RTQQueretaro.mx" group-title="LocalTV MX",10.1 RTQ | Queretaro MX
-#EXTVLCOPT:network-caching=1000
-https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=https://imgur.com/J5yhVLX.png" tvg-id="RTQQueretaro.mx" group-title="LocalTV MX",10.1 RTQ | Queretaro MX
-#EXTVLCOPT:network-caching=1000
-https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H34quHQ.png" tvg-id="Canal10Durango.mx" group-title="LocalTV MX",10.1 Canal10 | Durango MX
 #EXTVLCOPT:network-caching=1000
@@ -282,9 +263,16 @@ https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist
 #EXTVLCOPT:network-caching=1000
 https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ConectaTV.mx",10.4 Conecta TV Chihuahua
+https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
+
+
+#EXTINF:-1 tvg-id="TVPCuliacan.mx" tvg-logo="https://imgur.com/uaRskIf.png" group-title="LocalTV MX",10.1 TVP | Culiacan MX
+#EXTVLCOPT:network-caching=1000
+https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Canal10Cancun.mx",10.1 Canal 10 | Cancún MX
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="NoticiasCanal10.mx" tvg-logo=https://imgur.com/FgTNDKU.png" group-title="News",10.1 Noticias Canal 10
 #EXTVLCOPT:network-caching=1000
@@ -294,8 +282,13 @@ https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ConectaTV.mx",10.4 Conecta TV Chihuahua
-https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
+#EXTINF:-1 tvg-logo=https://imgur.com/J5yhVLX.png" tvg-id="RTQQueretaro.mx" group-title="LocalTV MX",10.1 RTQ | Queretaro MX
+#EXTVLCOPT:network-caching=1000
+https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVMarLaPaz.mx" tvg-logo="https://imgur.com/XlsWSxQ.png" group-title="General",10.1 TV Mar | La Paz MX
+#EXTVLCOPT:network-caching=1000
+https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/VYOCLVu.png" tvg-id="NayaritComunica.mx" group-title="LocalTV MX",10.1 Nayarit GOB | MX
 #EXTVLCOPT:network-caching=1000 
@@ -304,6 +297,34 @@ https://live.iplanay.gob.mx/hls/nayarittv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IDvpRNI.png" tvg-id="CaliforniaMediosTV.mx" group-title="LocalTVMX",10.0 California Medios TV
 #EXTVLCOPT:network-caching=1000 
 https://s5.mexside.net:1936/medios/medios/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=https://imgur.com/J5yhVLX.png" tvg-id="RTQQueretaro.mx" group-title="LocalTV MX",10.1 RTQ | Queretaro MX
+#EXTVLCOPT:network-caching=1000
+https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="TVMarLaPaz.mx" tvg-logo="https://imgur.com/QmUwdEA.png" group-title="General",10.2 TV Mar | Puerto Vallarta MX
+#EXTVLCOPT:network-caching=1000
+https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/rqeekTd.png" tvg-id="XHTTGTDT.mx" group-title="LocalTV MX",10.1 Canal10 |Chiapas MX
+#EXTVLCOPT:network-caching=1000
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -428,6 +449,10 @@ https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlis
 #EXTVLCOPT:network-caching=1000
 https://60417ddeaf0d9.streamlock.net/telemetrika3/telemetrika3.smil/.m3u8
 
+
+
+
+
 #EXTINF:-1 tvg-id="TVPlus2.cl" tvg-logo="https://https://imgur.com/PzUHGzj.png" group-title="Cultura;Entretenimiento;Animación",TV MÁS 2 | Chile
 #EXTVLCOPT:network-caching=1000
 https://marine2.miplay.cl/tateti/playlist.m3u8
@@ -539,9 +564,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellanews-es
 #EXTVLCOPT:network-caching=1000
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-estrellamedia/playlist.m3u8
 
-#EXTINF:-1 tvg-id="UltraTVPuebla.mx" tvg-logo="https://imgur.com/Iqhnapb.png" group-title="LocalTV MX",102.5 Ultra TV | Puebla MX
-#EXTVLCOPT:network-caching=1000
-https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
+
 
 
 
