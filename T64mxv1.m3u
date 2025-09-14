@@ -419,6 +419,11 @@ https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playl
 https://s5.mexside.net:1936/telemax/telemax/chunklist_w908464765.m3u8
 
 
+#EXTINF:-1 tvg-id="SISTEMAMICHIOACANOTV.MX" tvg-logo="https://imgur.com/OO2E7eN.png" group-title="Local TV MX",16.1 SMtV | MICHOACAN MX
+#EXTVLCOPT:network-caching=1000
+https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="XEWHTDT.mx" tvg-logo="https://imgur.com/thoVKCI.png" group-title="General",19.1 Telemax XEWH-TDT | Hermosillo MX
