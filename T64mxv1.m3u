@@ -128,6 +128,10 @@ https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
 #EXTVLCOPT:network-caching=1000
 https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Of044Jx.png" tvg-id="TVCuatro42.mx" group-title="LocalTV MX",4.2 TV Cuatro | CDMX
+#EXTVLCOPT:network-caching=1000
+https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
+
 #EXTINF:-1 tvg-id="TVCuatro43.mx" tvg-logo="https://imgur.com/szh1B61.png" group-title="LocalTV MX",4.3 TV Cuatro | CDMX
 #EXTVLCOPT:network-caching=1000
 https://5ca3e84a76d30.streamlock.net/tv43/videotv43/playlist.m3u8
@@ -136,9 +140,7 @@ https://5ca3e84a76d30.streamlock.net/tv43/videotv43/playlist.m3u8
 #EXTVLCOPT:network-caching=100
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Of044Jx.png" tvg-id="TVCuatro42.mx" group-title="LocalTV MX",4.2 TV Cuatro | CDMX
-#EXTVLCOPT:network-caching=1000
-https://5f2c1b0d880e5.streamlock.net/tv42/tv42.smil/.m3u8
+
 
 
 
@@ -353,11 +355,15 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w818826532.m3u8
 https://servilive.com:3263/live/channel12live.m3u8
 
 
-#EXTINF:-1 tvg-id="Canal13Oaxaca.mx" tvg-logo="https://imgur.com/5SBgXN8.png" group-title="LocalMX",13.1 Canal 13 | Oaxaca MX
+#EXTINF:-1 tvg-id="TeleYucatan.mx" tvg-logo="https://imgur.com/1GkbR5J.png" group-title="Local TV MX",13.1 TeleYucatan | MEXICO
+#EXTVLCOPT:network-caching=1000 
+https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal13Oaxaca.mx" tvg-logo="https://imgur.com/5SBgXN8.png" group-title="Local TV MX",13.1 Canal 13 | Oaxaca MX
 #EXTVLCOPT:network-caching=1000 
 https://207963.global.ssl.fastly.net/65313d270e749722b6474684/live_0bd65ed0dfbf11ee848c53d8a686e201/index.fmp4.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/0qlk2X3.png" tvg-id="13MaxTelevision.ar" group-title="LocalTVMX",13.1Max Televisión | Espana
+#EXTINF:-1 tvg-logo="https://imgur.com/0qlk2X3.png" tvg-id="13MaxTelevision.ar" group-title="Local TV MX",13.1Max Televisión | Espana
 #EXTVLCOPT:network-caching=1000 
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
