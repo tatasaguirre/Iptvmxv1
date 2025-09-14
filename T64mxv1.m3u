@@ -59,6 +59,17 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist720_p.m3u8
 #EXTVLCOPT:network-caching=1000 
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="eltrecetv.mx" tvg-logo="https://imgur.com/Oq6EwTq.png" group-title="CABLE MX",elTrece TV | Mexico
+#EXTVLCOPT:network-caching=1000 
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF:-1 tvg-id=".mx" tvg-logo=".png" group-title="CABLE MX", TV | Mexico
+#EXTVLCOPT:network-caching=1000 
+
+
+#EXTINF:-1 tvg-id="Americatv.mx" tvg-logo="https://imgur.com/2WASLlM.png" group-title="CABLE MX",America TV | Mexico
+#EXTVLCOPT:network-caching=1000 
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1757910143/ei/H0DHaJTpN4eUsfIP4-fa4Ac/ip/2600%3A8800%3A2181%3A2600%3Ac559%3Af2a9%3A9ad6%3A7835/id/qTVBAXLUUgY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AY1jyLM5im3wqOf21Ms8P8IgXaQx8TyeGv9_cPlfQ6d9Obzerl4CXACB4asLCKatc8bPtjJ2KoLzLKD5/spc/l3OVKbVvMpAOJnOSKUczSVlP6gLvqaO0KkjvVIwoNV5yHqsKeFefEIGZhtM8_ojQTrGA-MHLBrI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKE2RXI0LwoH-YXHjbMQhtm-cpXWGWI4e_eye7JkOMmnAiEAjdeK76Jn-GcF0JxTdl_X3VuiaYPRl-1L7oL2urM2VGM%3D/file/index.m3u8
 
 
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://imgur.com/LzsrNvm.png" group-title="News",DW Español | HD
