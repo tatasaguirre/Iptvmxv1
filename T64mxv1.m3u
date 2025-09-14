@@ -289,9 +289,14 @@ https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=https://imgur.com/J5yhVLX.png" tvg-id="RTQQueretaro.mx" group-title="LocalTV MX",10.1 RTQ | Queretaro MX
+#EXTINF:-1 tvg-logo="https://imgur.com/J5yhVLX.png" tvg-id="RTQQueretaro.mx" group-title="LocalTV MX",10.1 RTQ | Queretaro MX
 #EXTVLCOPT:network-caching=1000
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Bau7n3f.png" tvg-id="RTQQueretaro.mx" group-title="LocalTV MX",10.1 RTQ | Queretaro MX
+#EXTVLCOPT:network-caching=1000
+https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-id="TVMarLaPaz.mx" tvg-logo="https://imgur.com/XlsWSxQ.png" group-title="General",10.1 TV Mar | La Paz MX
 #EXTVLCOPT:network-caching=1000
