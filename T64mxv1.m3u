@@ -16,6 +16,12 @@
 https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="CORTV.MX" tvg-logo="https://imgur.com/LNkbneV.png" group-title="Local TV MX",CORTV | OAXACA MX
+#EXTVLCOPT:network-caching=1000 
+https://s5.mexside.net:1936/cortv/cortv/playlist.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="UltraTVPuebla.mx" tvg-logo="https://imgur.com/Iqhnapb.png" group-title="LocalTV MX",102.5 Ultra TV | Puebla MX
 #EXTVLCOPT:network-caching=1000
