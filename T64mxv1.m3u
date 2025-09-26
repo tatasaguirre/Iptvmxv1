@@ -34,6 +34,72 @@ https://cloudvideo.servers10.com:8081/8016/index.m3u8
 
 #EXTINF:-1 tvg-id="TeleYucatan.mx",Tele Yucatan [Geo-blocked]
 https://5ca3e84a76d30.streamlock.net:443/teleyucatan/videoteleyucatan/playlist.m3u8
+#EXTINF:59,Filmex (Xumo) (1080p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
+#EXTINF:56,Filmex Clásico (1080p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
+#EXTINF:25,Filmgold
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6305ca798bd95300072d2f93/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1db1d4-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4a90c28a-e616-4ce8-bd9d-18ee8820eede
+#EXTINF:25,Filmgold
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6305ca798bd95300072d2f93/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc83f386-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2c13829c-c398-43d8-a725-567a36c336be
+#EXTINF:25,Filmgold
+#EXTVLCOPT:network-caching=1000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6305ca798bd95300072d2f93/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ad40f8-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=266c2f61-4ff7-423e-9af5-2d4f8e57bd34
+#EXTINF:54,FilmGold Germany (1080p)
+#EXTVLCOPT:network-caching=1000
+https://mainstreamfilmgold-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:59,FilmRise Binge Watch France (720p)
+#EXTVLCOPT:network-caching=1000
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883021
+#EXTINF:36,Filmrise Black TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://livetv-fa.tubi.video/filmrise-blacktv/index.m3u8
+#EXTINF:36,FilmRise Black TV Canada (720p)
+#EXTVLCOPT:network-caching=1000
+https://livetv-fa.tubi.video/filmrise-blacktv-canada/index.m3u8
+#EXTINF:0,Filmrise Cheaters (720p)
+#EXTVLCOPT:network-caching=1000
+https://livetv-fa.tubi.video/cheaters/index.m3u8
+#EXTINF:60,FilmRise Classic TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://d2tv4k5moji5m7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lu4pzh9l4b57p/master.m3u8
+#EXTINF:60,FilmRise DeGrassi la nouvelle génération
+#EXTVLCOPT:network-caching=1000
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883113
+#EXTINF:36,Filmrise Forensic Files (720p)
+#EXTVLCOPT:network-caching=1000
+https://livetv-fa.tubi.video/forensic-files/index.m3u8
+#EXTINF:36,Filmrise Horror (720p)
+#EXTVLCOPT:network-caching=1000
+https://livetv-fa.tubi.video/filmrise-horror/index.m3u8
+#EXTINF:0,FilmRise Horror Canada (720p)
+#EXTVLCOPT:network-caching=1000
+https://livetv-fa.tubi.video/filmrise-horror-canada/index.m3u8
+#EXTINF:0,FilmRise Hot Ones (720p)
+#EXTVLCOPT:network-caching=1000
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883082
+#EXTINF:0,FilmRise Les Routes du Paradis (720p)
+#EXTVLCOPT:network-caching=1000
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883083
+#EXTINF:0,FilmRise Séries France (720p)
+#EXTVLCOPT:network-caching=1000
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883033
+#EXTINF:0,Filmrise True Crime (720p)
+#EXTVLCOPT:network-caching=1000
+https://livetv-fa.tubi.video/filmrise-true-crime/index.m3u8
+#EXTINF:0,FilmRise True Crime Canada (720p)
+#EXTVLCOPT:network-caching=1000
+https://livetv-fa.tubi.video/filmrise-true-crime-canada/index.m3u8
+#EXTINF:0,Filmrise World's Most Evil Killers (720p)
+#EXTVLCOPT:network-caching=1000
+https://livetv-fa.tubi.video/worlds-most-evil-killers/index.m3u8
+#EXTINF:0,FilmRise Z Nation France (720p)
+#EXTVLCOPT:network-caching=1000
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883103
 
 #EXTINF:0,FUTV (1080p)
 #EXTVLCOPT:network-caching=1000
