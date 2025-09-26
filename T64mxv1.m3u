@@ -35,6 +35,33 @@ https://cloudvideo.servers10.com:8081/8016/index.m3u8
 #EXTINF:-1 tvg-id="TeleYucatan.mx",Tele Yucatan [Geo-blocked]
 https://5ca3e84a76d30.streamlock.net:443/teleyucatan/videoteleyucatan/playlist.m3u8
 
+#EXTINF:0,FUTV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://live20.bozztv.com/akamaissh101/ssh101/livefutvcr/playlist.m3u8
+#EXTINF:0,FX (1080p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://saran-live.ercdn.net/fx/index.m3u8
+#EXTINF:0,FX East
+#EXTVLCOPT:network-caching=1000
+https://fl7.moveonjoy.com/FX/index.m3u8
+#EXTINF:0,FX Movie Channel (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://tvpass.org/live/FXMovieChannel/hd
+#EXTINF:0,FX TV 1
+#EXTVLCOPT:network-caching=1000
+https://fxtvhls.wns.live/hls/stream.m3u8
+#EXTINF:0,FX TV 2
+#EXTVLCOPT:network-caching=1000
+https://toonixhls.wns.live/hls/stream.m3u8
+#EXTINF:0,FXM East
+#EXTVLCOPT:network-caching=1000
+https://fl7.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:0,FXX East
+#EXTVLCOPT:network-caching=1000
+https://fl7.moveonjoy.com/FXX/index.m3u8
+#EXTINF:0,FYI East
+#EXTVLCOPT:network-caching=1000
+https://fl7.moveonjoy.com/FYI/index.m3u8
 
 
 MX: CABLE MX
