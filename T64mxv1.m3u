@@ -22,6 +22,10 @@ https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u
 #EXTVLCOPT:network-caching=1000 
 https://s5.mexside.net:1936/cortv/cortv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TE;LEVISATELENOVELAS.MX" tvg-logo="https://imgur.com/LNkbneV.png" group-title="Local TV MX",TELEVISA TELENOVELAS TV | MEXICO
+#EXTVLCOPT:network-caching=1000 
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+
 
 
 
