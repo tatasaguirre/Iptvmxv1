@@ -31,6 +31,9 @@ https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/chunklist_w1014614467_b
 #EXTVLCOPT:network-caching=1000 
 https://s5.mexside.net:1936/cortv/cortv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="JUSTICIATV.MX" tvg-logo="https://imgur.com/6IsfyTo.png" group-title="Local TV MX",JUSTICIA TV | MEXICO
+#EXTVLCOPT:network-caching=1000 
+https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="GOLDENTV.US" tvg-logo="https://imgur.com/Urq7ODl.png" group-title="Local TV MX",GOLDEN TV | USA
