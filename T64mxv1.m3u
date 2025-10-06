@@ -12,6 +12,9 @@
 #EXTVLCOPT:network-caching=1000 
 https://xumo-xumoent-vc-113-at8kn.fast.nbcuni.com/live/master_2.m3u8
 
+#EXTINF:-1 tvg-id="BOUNCEXL.US" tvg-logo="https://imgur.com/zTZWAWl.png" group-title="Local TV US",BOUNCE XL TV | USA
+#EXTVLCOPT:network-caching=1000 
+https://livetv-fa.tubi.video/bounce-xl/playlist.m3u8
 
 
 
