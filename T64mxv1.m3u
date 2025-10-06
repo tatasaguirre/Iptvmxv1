@@ -8,6 +8,12 @@
 
 
 
+#EXTINF:-1 tvg-id="AmericanCrimes.us" tvg-logo="https://imgur.com/Xd2rzH8.png" group-title="Local TV USA",AMERICAN CRIMES | USA
+#EXTVLCOPT:network-caching=1000 
+https://xumo-xumoent-vc-113-at8kn.fast.nbcuni.com/live/master_2.m3u8
+
+
+
 
 #EXTINF:-1 tvg-id="DMAX.IT" tvg-logo="https://imgur.com/6wPHCc8.png" group-title="Local TV MX",DMAX ITALY
 #EXTVLCOPT:network-caching=1000 
