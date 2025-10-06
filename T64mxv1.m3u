@@ -32,6 +32,11 @@ https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/chunklist_w1014614467_b
 https://s5.mexside.net:1936/cortv/cortv/playlist.m3u8
 
 
+
+#EXTINF:-1 tvg-id="GOLDENTV.US" tvg-logo="https://imgur.com/Urq7ODl.png" group-title="Local TV MX",GOLDEN TV | USA
+#EXTVLCOPT:network-caching=1000 
+https://rpn.bozztv.com/gusa/gusa-goldentv/index.m3u8
+
 #EXTINF:-1 tvg-id="ELSONORENSETV.MX" tvg-logo="https://imgur.com/DY5uYsN.png" group-title="Local TV MX",elSonorense TV | SONORA MX
 #EXTVLCOPT:network-caching=1000 
 https://s5.mexside.net:1936/elsonorense/elsonorense/chunklist_w22858105.m3u8
