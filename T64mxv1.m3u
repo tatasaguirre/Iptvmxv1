@@ -41,6 +41,11 @@ https://s5.mexside.net:1936/elsonorense/elsonorense/chunklist_w22858105.m3u8
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="EXPRESATV.MX" tvg-logo="https://imgur.com/4rTCLIz.png" group-title="Local TV MX",EXPREZA TV | MEXICO MX
+#EXTVLCOPT:network-caching=1000 
+https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/chunklist_w1078745518_b928000_sleng.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="UltraTVPuebla.mx" tvg-logo="https://imgur.com/Iqhnapb.png" group-title="LocalTV MX",102.5 Ultra TV | Puebla MX
