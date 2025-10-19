@@ -8,7 +8,7 @@
 
 #EXTINF:-1 tvg-id="wb.us" tvg-logo="https://imgur.com/zTZWAWl.png" group-title="CABLE USA",WATCHINGLIST BY WB | USA
 #EXTVLCOPT:network-caching=1000 
-https://livetv-fa.tubi.video/wbd-watch-list/playlist240P.m3u8
+https://livetv-fa.tubi.video/wbd-watch-list/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AmericanCrimes.us" tvg-logo="https://imgur.com/Xd2rzH8.png" group-title="Local TV USA",AMERICAN CRIMES | USA
 #EXTVLCOPT:network-caching=1000 
